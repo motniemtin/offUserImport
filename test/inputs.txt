@@ -1,0 +1,892 @@
+k11.1	Nguyễn Công Tuấn 	Anh	21/04/2011		Nguyễn Công Vinh	KP Phú Phong 
+k11.1	Nguyễn Gia 	Bảo	03/05/2011		Nguyễn Thành 	KP An Hà Nam 
+k11.1	Nguyễn Tiến 	Cường	18/09/2011		Nguyễn Tiến Đạt	KP An Hà Nam 
+k11.1	Nguyễn Phan Vũ 	Cường	01/04/2011		Phan Thị Mai Sương	KP Phú Ân    
+k11.1	Nguyễn Thành 	Đạt	27/08/2011		Nguyễn Văn Hào	KP Phú Sơn 
+k11.1	Lương Nguyễn Quang 	Dũng 	07/01/2011		Lương Quang Trực	KP An Hà Nam 
+k11.1	Nguyễn Cao Thùy 	Duyên	24/04/2011	x	Nguyễn Cao Thống	KP An Hà Nam 
+k11.1	Nguyễn Trịnh Ngọc 	Duyên	22/10/2011	x	Trịnh Thị Thuyền	KP .Phú Sơn
+k11.1	Ngô Minh 	Hà	01/11/2011		Ngô Tấn Hường	KP.AH Nam
+k11.1	Võ Thanh 	Hải	03/02/2011		Võ Thanh Triếu	KP An Hà Nam
+k11.1	Nguyễn Bùi Như	Hằng	23/09/2011	x	Nguyễn Thanh Thúy	KP. An Hà Nam
+k11.1	Nguyễn Thanh	Hằng	09/10/2011	x	Nguyễn Văn Thành	KP Phú Trung
+k11.1	Nguyễn Thế 	Hưng	15/12/2011		Nguyễn Thế Viễn	KP Ngọc Nam
+k11.1	Nguyễn Hoàng	Huy	01/01/2011		Nguyễn Văn Liêu	KP Phú Trung 
+k11.1	Ngô Gia 	Kiệt	09/02/2011		Ngô Thị Thu Phương	KP Ngọc Nam 
+k11.1	Hồ Huỳnh Sỹ 	Kỳ	02/08/2011		Hồ Văn Tha	KP Phú Ân 
+k11.1	Huỳnh Thị Mỹ	Linh	26/04/2011	x	Huỳnh Thanh Dung	KP Phú Sơn 
+k11.1	Phạm Đỗ Xuân	Lĩnh	30/07/2011		Phạm Xuân Lành	KP Phú Sơn 
+k11.1	Phạm Nguyễn Diễm 	My	15/06/2011	x	Phạm Chí Công	KP Phú Phong 
+k11.1	Nguyễn Đức 	Nam	01/03/'2011		Nguyễn Lưu Phố	KP Phú Sơn 
+k11.1	Đỗ Lê Bảo 	Ngọc	29/03/2011	x	Đỗ Phan Tiến	KP Ngọc Nam 
+k11.1	Nguyễn Thanh 	Ngọc	20/12/2011	x	Nguyễn Văn Thanh	KP Phú Sơn 
+k11.1	Võ Huyền 	Nhi	23/01/2011	x	Võ Văn Mười	KP Phú Sơn
+k11.1	Dương Trịnh Mai 	Ni	27/11/2011	x	Trịnh Thị Thủy	KP Phú Phong 
+k11.1	Trương Thanh 	Phúc	01/09/2011		Trương Minh Truyền	KP Phú Phong 
+k11.1	Trần Kim 	Phượng	27/04/2011	x	Trần Văn Thọ	KP Phú Ân 
+k11.1	Hồ Thị 	Sen	08/06/2011	x	Hồ Đức Thông	KP Phú Sơn 
+k11.1	Trương Cao 	Sỹ	05/05/2011		Trương Cao Lực	KP An Hà Nam
+k11.1	Trương Thị Thanh 	Thảo	10/10/2011	x	Trương Văn Anh	KP Ngọc Nam
+k11.1	Nguyễn Minh 	Thư	01/11/2011	x	Nguyễn Thị Hoàng Vũ	KP Phú Sơn
+k11.1	Lê Thị 	Thúy	25/08/2011	x	Lê Văn Hải	KP Ngọc Nam
+k11.1	Lê Bảo 	Trâm	07/03/2011	x	Lê Quý Đông	KP.Phú Sơn
+k11.1	Nguyễn Thị Minh 	Trang	19/07/2011	x	Nguyễn Thị Tuyết	KP Phú Phong 
+k11.1	Trần Nguyễn Thủy  	Trúc	31/08/2011	x	Nguyễn Thị Thanh Thúy	KP Phú Trung 
+k11.1	Phạm Quang 	Trung	19/11/2011		Phạm Đức Nam	KP Phú Trung
+k11.1	Nguyễn Thanh 	Tuấn	0709/2011		Nguyễn Thanh Hồng	KP Phú Ân 
+k11.1	Phạm Anh 	Tuấn	29/05/2011		Nguyễn Thị Phước	KP Phú Trung
+k11.1	Nguyễn Thục 	Yên	16/10/2011	x	Nguyễn Thị Tuyết Nhung	KP Phú Sơn 
+k11.2	Dương Phạm Phương 	Anh	17/09/2011	x	Dương Long Dương	KP Ngọc Nam
+k11.2	Nguyễn Thị Thu	Bình	08/01/2011	x	Ngô Ngọc Thà	KP Phú Trung
+k11.2	Trương Phạm Mỹ	Châu	05/12/2011	x	Trương Thành Chinh	KP Phú Phong 
+k11.2	Lê Võ Thanh 	Danh	23/09/2011		Lê Thanh Lâm	KP Phú Trung
+k11.2	Trương Văn 	Đạt	23/03/2011		Trương Văn Tuấn	KP Phú Phong 
+k11.2	Phạm Hồng 	Duy	11/11/2011		Phạm Hồng Tịnh	KP Phú Trung 
+k11.2	Tống Huỳnh Thanh	Hằng	18/12/2011	x	Tống Văn Tình	KP Phú Ân 
+k11.2	Nguyễn Thị 	Hòa	23/3/2011	x	Nguyễn Văn Thiện	KP Phú Ân
+k11.2	Phạm Trần Mai	Hương	06/12/2011	x	Phạm Văn Cường	KP Phú Trung 
+k11.2	Phan Nguyễn Đăng 	Huy	26/10/2011		Phan Hoàng Nhật	KP Phú Ân
+k11.2	Đỗ Minh 	Khánh	25/10/2011		Đỗ Minh Cảnh	KP Ngọc Nam
+k11.2	Nguyễn Văn 	Lý	27/02/2011		Nguyễn Văn Sự	KP Phú Ân
+k11.2	Trương Thanh 	Ngân	21/07/2011	x	Trương Công Nhựt	KP An Hà Nam
+k11.2	Đỗ Văn 	Nghĩa	28/01/2011		Đỗ Văn Đồng	KP Phú Sơn 
+k11.2	Kiều Bảo	Ngọc	26/10/2011	x	Kiều Phúc	KP Phú Sơn 
+k11.2	Đỗ Lê Khánh	Ngọc	0'8/09/2011	x	Đỗ Phi Hùng	KP Phú Ân 
+k11.2	Phạm Thị Như 	Nguyệt	12/09/2011	x	Phạm Hồng Vũ	KP Phú Trung 
+k11.2	Lê Lâm	Nhật	10/02/2011		Lê Văn Dục	KP Phú Trung
+k11.2	Ngô Uyên 	Nhi	30/01/2011	x	Ngô Hải Sơn	KP Phú Sơn 
+k11.2	Phạm PơLoong Hồng 	Phúc	05/04/2011		Phạm Đức Phụng	KP Phú Phong 
+k11.2	Nguyễn Như	Quỳnh	15/05/2011	x	Nguyễn Văn Sỹ	Tam Phú
+k11.2	Nguyễn Thi 	Sách	15/6/2011		Nguyễn Hồng Trường	KP.Phú Phong
+k11.2	Nguyễn Văn 	Tài	04/07/2011		Nguyễn Xuân Tuấn	KP Phú Sơn 
+k11.2	Nguyễn Tấn 	Thành	24/06/2011		Nguyễn Tấn Lực	KP Phú Sơn
+k11.2	Lê Viết 	Thịnh	23/08/2011		Lê Văn Tín	KP Phú Sơn 
+k11.2	Trương Nguyễn Anh 	Thư	24/04/2011	x	Trương Công Lập	KP Phú Phong 
+k11.2	Trần Thị Anh 	Thư 	06/05/2011	x	Trần Ngọc Dũng	KP Phú Sơn 
+k11.2	Trần Hồ Thân	Thương	12/09/2011	x	Trần Minh Tâm 	KP.Phú Sơn
+k11.2	Huỳnh Thị Bảo 	Trâm	30/7/2011	x	Huỳnh Yên	KP Phú Ân 
+k11.2	Nguyễn Bảo 	Trâm	26/7/2011	x	Nguyễn Thành Công	KP Phú Sơn 
+k11.2	Huỳnh Hữu 	Trí	12/6/2011		Huỳnh Trọng Tài	KP Phú Trung 
+k11.2	Nguyễn Ngọc 	Trịnh	28/7/2011		Nguyễn Ngọc Lễ	KP Phú Phong 
+k11.2	Lê Trần Anh 	Tú	3/9/2011		Lê Văn Thuần	KP Phú Trung 
+k11.2	Nguyễn Phạm Anh 	Tuấn	26/10/2011		Nguyễn Thanh Vương	KP Phú Ân 
+k11.2	Trần Thị Thảo 	Uyên	0'8/03/2011	x	Trần Văn Vui	KP Phú Sơn
+k11.2	Trương Công 	Vĩ	04/02/2011		Trương Đình Lộc	KP Phú Ân
+k11.2	Đặng Cao Thiên	Vũ	11/11/'2011		Đặng Cao Thông	KP Phú Sơn 
+k11.2	Thi Thảo	Vy	28/9/2011	x	Thi Văn Xê	An Hà Nam
+k11.3	Nguyễn Ngọc 	Bảo	19/11/2011		Nguyễn Thanh Truyền	KP Phú Ân
+k11.3	Dương Tiểu 	Bình	6/8/2011	x	Dương Trung Lập	KP Ngọc Nam 
+k11.3	Võ Văn 	Cả	26/03/2011		Võ Văn Hải	KP.Phú Sơn
+k11.3	Dương Văn	Đạt	20/8/2011		Dương Văn Hùng	KP Phú Phong 
+k11.3	Phạm Bình Bách 	Diệp	2/11/2011	x	Phạm Anh Tuấn	KP An Hà Nam 
+k11.3	Nguyễn Xuân 	Đồng	14/12/2011		Nguyễn Văn Hội	KP Ngọc Nam 
+k11.3	Phạm Hữu Bảo 	Duy	19/8/2011		Phạm Hữu Thơ	KP Phú Trung
+k11.3	Nguyễn Thị Quỳnh 	Giang	12/5/2011	x	Nguyễn Văn Vịnh	KP Phú Trung 
+k11.3	Nguyễn Thị	Hiền	16/1/2011	x	Võ Thị Hoa	KP Phú Ân
+k11.3	Doãn Thị Yến 	Hồng	2/1/2011	x	Doãn Văn Quốc	KP Phú Phong 
+k11.3	Nguyễn Long Phúc	Hưng	01/5/2011		Nguyễn Long Hòa	KP Phú Sơn 
+k11.3	Nguyễn Thành 	Khang	24/7/2011		Nguyễn Thị Huyền	Tam Tiến 
+k11.3	Lê Nguyễn Đăng	Khoa	23/11/2011		Lê Ngô Hoài Nhân	KP Ngọc Nam 
+k11.3	Phạm Huỳnh Trung 	Kiên	13/02/2011		Phạm Quốc Cường 	KP Phú Ân
+k11.3	Phan Giang	Lam	13/8/2011	x	Huỳnh Thị Ái Nguyệt	KP Phú Ân 
+k11.3	Phạm Huỳnh Phương	Linh	19/7/2011	x	Phạm Văn Cườm	KP Phú Trung 
+k11.3	Huỳnh Phạm 	Misa	6/3/2011	x	Phạm Thị Cúc	KP Phú Sơn 
+k11.3	Nguyễn Thị Ly	Na	11/4/2011	x	Nguyễn Thanh Tuấn	KP Ngọc Nam 
+k11.3	Trần Hà Bảo 	Ngân 	7/6/2011	x	Trần Văn Lĩnh	KP Phú Trung 
+k11.3	Lê Hồng 	Nhật	02/04/2011		Lê Hồng Minh	KP Phú Ân
+k11.3	Dương Huỳnh	Phúc	13/3/2011		Dương Thanh Tùng	KP Ngọc Nam 
+k11.3	Nguyễn Hòai 	Phương	30/04/2011	x	Ung Thị Bích Đào	An Hà Trung
+k11.3	Huỳnh Hải 	Quân	23/6/2011		Huỳnh Văn Bình	KP Ngọc Nam 
+k11.3	Phan Đình	Quốc	5/11/2011		Phan Đình Vinh	KP Phú Trung 
+k11.3	Phạm Văn 	Quyến	17/10/2011		Phạm Văn Sửu	KP Phú Trung 
+k11.3	Phạm Nguyễn Như 	Quỳnh	3/6/2011	x	Phạm Hữu Thảo	KP. Phú Sơn
+k11.3	Phạm Hồng	Sơn	30/6/2011		Phạm Văn Đồng	KP Phú Ân
+k11.3	Đỗ Ngọc 	Thông	28/8/2011		Đỗ Văn Phùng	KP Ngọc Nam 
+k11.3	Nguyễn Thị Anh 	Thư	26/01/2011	x	Nguyễn Văn Lĩnh	KP Ngọc Nam
+k11.3	Nguyễn Trương Minh	Thư	19/5/2011	x	Nguyễn Văn Thọ	KP Phú Ân 
+k11.3	Trần Thị Xuân 	Thùy	12/11/2011	x	Trần Văn Khứ	KP Ngọc Nam
+k11.3	Nguyễn Thị Thủy 	Tiên	7/9/2011	x	Trần Thị Được	KP Phú Trung 
+k11.3	Nguyễn Thanh 	Tiến	27/12/2011		Nguyễn Thanh Việt	KP Phú Ân 
+k11.3	Nguyễn Trọng 	Tín	9/4/2011		Nguyễn Văn Thân	KP Ngọc Nam
+k11.3	Trần Ngọc Bảo 	Trâm	7/9/2011	x	Trần Anh Thư	KP Phú Trung 
+k11.3	Nguyễn Thị Uyên 	Trân	11/11/2011	x	Nguyễn Quang Tuyền	KP Phú Ân
+k11.3	Trần Xuân 	Trung	29/9/2011		Trần Xuân Khương	KP Ngọc Nam 
+k11.3	Dương Văn 	Tuyển	18/5/2011		Dương Văn Quang	KP Phú Phong 
+k11.4	Đặng Trần Hồng 	Anh	4/11/2011	x	Đặng Bá Lộc	KP An Hà Đông
+k11.4	Nguyễn Lương Đức	Bằng	26/11/2011		Nguyễn Đức Lượng	KP An Hà Đông
+k11.4	Lương Đỗ Thùy 	Bin	18/8/2011	x	Lương Quang Cườm	KP An Hà Đông
+k11.4	Đặng Bá	Chí	15/2/2011		Đặng Bá Thưa	KP An Hà Đông
+k11.4	Trần Minh 	Cường	5/7/2011		Trần Minh Trí	KP An Hà Trung 
+k11.4	Nguyễn Văn	Đồng	14/12/2011		Nguyễn Thanh Hoàng	KP An Hà Đông 
+k11.4	Lương Trần Quang 	Duy	4/11/2011		Lương Quang Lượng	KP An Hà Nam 
+k11.4	Đặng Thị Thùy	Duyên	29/04/2011	x	Đặng Ngọc Tường	KP An Hà Trung 
+k11.4	Nguyễn Quỳnh 	Giang	19/11/2011	x	Nguyễn Xuân Vĩnh	KP An Hà Trung 
+k11.4	Huỳnh Thị Thu 	Hà	30/8/2011	x	Nguyễn Thị Lịch	An Hà Nam
+k11.4	Phan Phạm Gia 	Hi	10/7/2011		Phan Văn Thu	KP An Hà Nam 
+k11.4	Nguyễn Thanh 	Hoàng	8/5/2011		Nguyễn Thanh Quảng	KP An Hà Đông
+k11.4	Lương Trương Hoa 	Hồng	13/11/2011	x	Lương Quang Kề	KP An Hà Nam 
+k11.4	Lê Thái	Hưng	03/10/2011		Lê Công Kiều	KP.An Hà Đông
+k11.4	Nguyễn Minh	Huy	26/8/2011		Nguyễn Minh Quang	KP An Hà Đông 
+k11.4	Ung Thùy  Hà	My	18/12/2011	x	Ung Nho Năm	KP An Hà Trung 
+k11.4	Doãn Thị Thu 	Mỹ	22/11/2011	x	Doãn  Văn Bình	KP An Hà Nam 
+k11.4	Trương Bảo 	Ngân	29/10/2011	x	Trương Công Tín	KP An Hà Nam 
+k11.4	Ung Nguyễn Duy 	Ngọc	15/10/2011		Ung Nho Viện	KP An Hà Trung 
+k11.4	Lê Phạm Khôi 	Nguyên	17/10/2011		Phạm Thị Ngọc Trâm	KP An Hà Trung 
+k11.4	Ngô Thị Mỹ 	Nhung	30/10/2011	x	Ngô Văn Sở	KP An Hà Nam 
+k11.4	Phạm Ngọc Yến	Oanh	18/01/2011	x	Phạm Ngọc Tin	KP An Hà Đông 
+k11.4	Võ Hồng 	Phúc	21/01/2011		Võ Tấn Cọng	KP An Hà Trung 
+k11.4	Phạm Trung 	Quân	17/8/2011		Phạm Tấn Thiết	KP An Hà Đông 
+k11.4	Lương Quang 	Quý	25/11/2011		Lương Quang Viện	KP An Hà Trung 
+k11.4	Nguyễn Minh 	Quyến	01/6/2010		Nguyễn Minh Nhựt	KP.AH Đông
+k11.4	Doãn Văn 	Sĩ	3/7/2011		Doãn Văn Tuấn	KP An Hà Đông 
+k11.4	Đặng Quốc 	Thắng	2/4/2011		Đặng Bá Lịnh	KP.AH Nam
+k11.4	Võ Minh 	Thiện	1/11/2011		Võ Đắc Phú	KP Phú Sơn
+k11.4	Ung Thị Minh 	Thy	29/01/2011	x	Ung Nho Cường	KP An Hà Trung 
+k11.4	Phan Thanh 	Trà	15/11/2020		Phan Văn Tín	KP An Hà Nam 
+k11.4	Lê Vũ Quỳnh 	Trâm	4/1/2011	x	Lê Trần Viết Thành	KP An Hà Nam 
+k11.4	Dương Thị Thu 	Trang	5/10/2011	x	Lương Thị Mãi	KP An Hà Đông
+k11.4	Trương Huỳnh Anh 	Tú	22/5/2011		Trương Văn Tuấn	KP An Hà Đông
+k11.4	Trần Thị Hà 	Vi	20/02/2011	x	Trần Xuân Quang	KP An Hà Trung 
+k11.4	Nguyễn Thị Thảo	Vy	26/9/2011	x	Nguyễn Ngọc Thủy	KP An Hà Đông 
+k12.1	Phan Nguyễn Quỳnh	Anh	27/12/2012	x	Phan Hoàng Nhật	KP.Phú Ân
+k12.1	Huỳnh Gia	Bảo	6/4/2012		Huỳnh Văn Dũng 	KP.Ngọc Nam
+k12.1	Lê Dương Ngọc 	Bảo	27/11/2012		Lê Quý Đông	KP.Phú Sơn 
+k12.1	Ngô Văn 	Công	11/10/2012		Ngô Văn Thành 	KP.Ngọc Nam
+k12.1	Lê Nguyễn Bảo 	Định	26/3/2012		Lê Quang Toàn 	KP.AH Nam
+k12.1	Nguyễn Thanh 	Dũng	25/7/2012		Nguyễn Thanh Dự	KP.Phú Ân
+k12.1	Nguyễn Mỹ 	Duyên	2/2/2012	x	Nguyễn Thanh Minh	KP.Phú Ân
+k12.1	Nguyễn Hoàng 	Gia 	03/8/2012		Nguyễn Tấn Lực	KP.Phú Ân
+k12.1	Trương Hoàng 	Hải	07/12/2012		Trương Xuân Lợi	KP.Ngọc Nam
+k12.1	Lưu Vĩnh Ngọc	Hân	20/7/2012	x	Lưu Văn Quân	KP.Phú Sơn
+k12.1	Nguyễn Thị Ánh	Hằng	03/9/2012	x	Nguyễn Văn Hải 	KP.Ngọc Nam
+k12.1	Nguyễn Quang 	Huy	5/5/2012		Nguyễn Ngọc Thơ	KP.Ngọc Nam
+k12.1	Nguyễn Bảo 	Khang	15/8/2012		Nguyễn Văn Thuận	KP.Phú Ân
+k12.1	Lê Trần Gia 	Khánh	13/3/2012		Lê Ngọc Vinh	KP.Ngọc Nam
+k12.1	Ng: Trương Khánh 	Linh	16/2/2012	x	Nguyễn Văn Túc	KP.Phú Trung
+k12.1	Lê Thanh 	Long	07/11/2012		Lê Thanh Tiền	KP.AH Đông
+k12.1	Trương Thị Kiều 	Mến	01/03/2012	x	Trương Văn Thuyết 	KP.Phú Phong
+k12.1	Trương Hoàng Thiên	Nhã	31/12/2012	x	Nguyễn Thị Thu Thủy	An hà Đông
+k12.1	Ng: Trương Minh	Nhật	12/7/2012		Nguyễn Văn Phương	KP.Phú Trung
+k12.1	Doãn Thị Linh 	Nhi	12/11/2012	x	Doãn Văn Đáng	KP.Phú Phong
+k12.1	Trần Yến 	Ny	10/11/2012	x	Trần Phong Hải	KP.Phú Sơn
+k12.1	Trương Tiến 	Phát	9/4/2012		Trương Công Hùng	Thôn Phú Đông
+k12.1	Nguyễn Hoàng 	Phúc	8/2/2012		Nguyễn Văn Anh 	KP.Phú Sơn 
+k12.1	Nguyễn Thanh 	Sang	14/9/2012		Nguyễn Thanh Tạo	KP.Phú Ân
+k12.1	Nguyễn Thị Hoa 	Sen	05/3/2012	x	Nguyễn Văn Tựu	KP.Ngọc Nam
+k12.1	Nguyễn Hưng 	Thịnh	03/10/2012		Nguyễn Văn Hưng	KP.Phú Ân
+k12.1	Trần Lê Anh 	Thư	21/3/2012	x	Trần Hữu Tiếng	KP. AH Đông
+k12.1	Võ Thị Ngọc 	Trâm	23/4/2012	x	Võ Ngọc Tỉnh	KP.Phú Phong
+k12.1	Vũ Ngọc Bảo	Trân	25/11/2012	x	Vũ Ngọc Đông	KP.Phú Phong
+k12.1	Nguyễn Quốc 	Trường	14/2/2012		Nguyễn Văn Hùng 	KP.Ngọc Nam
+k12.1	Nguyễn Phước	Tú	21/6/2012		Nguyễn Phước Đông	KP.Ngọc Nam
+k12.1	Đỗ Minh 	Tuyền	05/9/2012		Đỗ Minh Phụng	KP.Ngọc Nam
+k12.1	Trần Phạm Băng 	Tuyết	18/8/2012	x	Trần Quốc Phương	KP.Phú Ân
+k12.1	Nguyễn Thị Phương	Uyên	14/10/2012	x	Nguyễn Tấn Đạt	KP.Phú Ân
+k12.1	Hồ Thị Tuyết	Vi	3/1/2012	x	Đỗ Thị Tiên Sa	Thôn Ngọc Mỹ
+k12.1	Nguyễn Ngọc 	Vũ 	12/7/2012		Nguyễn Văn Lý 	KP.AH Nam
+k12.1	Đặng Thị Như 	Ý	16/02/2012	x	Đặng Cao Vương	KP.Phú Trung
+k12.1	Lê Như 	Ý	23/10/2012	x	Lê Văn Quyền 	KP.AH Nam
+k12.2	Đào Ngọc Quỳnh	Anh	2/9/2012	x	Đào Minh Hùng	KP Ngọc Nam
+k12.2	Nguyễn Trà Thái 	Bình	20/11/2012	x	La Vĩnh Bích Quyên	Hòa Hương
+k12.2	Nguyễn Văn Minh 	Chiến	02/07/2012		Nguyễn Văn Anh 	KP.Phú Sơn 
+k12.2	Trần Văn 	Đạo	25/10/2012		Trần Minh Tứ 	KP.Ngọc Nam
+k12.2	Nguyễn Thiện 	Đạo	23/07/2012		Nguyễn Văn Thiện	KP.Ngọc Nam
+k12.2	Nguyễn Minh 	Đức	19/12/2012		Nguyễn Quang Chính	KP.Ngọc Nam
+k12.2	Dương Văn 	Dũng	22/12/2012		Dương Văn Quý 	KP.Ngọc Nam
+k12.2	Trần Quốc 	Duy	13/3/2012		Trần Quốc Dũng 	KP.Ngọc Nam
+k12.2	Phạm Ngọc 	Duy	04/12/2012		Phạm Thanh Điểm	KP.Phú Phong
+k12.2	Nguyễn Thị Mỹ 	Duyên	12/11/2012	x	Nguyễn Văn Chinh 	KP.Ngọc Nam
+k12.2	Trương Thanh 	Hà	26/11/2012		Trương Thanh Khôi	KP.Phú Phong
+k12.2	Nguyễn Trần Gia	Hân	11/5/2012	x	Nguyễn Thiện Danh 	KP.Phú Phong
+k12.2	Nguyễn Minh 	Hằng 	03/06/2012	x	Nguyễn Út	KP.Phú Ân
+k12.2	Phạm Thị Thanh 	Hạnh	23/9/2012	x	Phạm Thanh Trang 	KP.Phú Phong
+k12.2	Trương Nguyễn Bảo	Hiền	15/10/2012	x	Trương Công Việc	KP.Phú Sơn 
+k12.2	Trương Gia	Khánh 	11/9/2012		Trương Văn Tuân	KP.Phú Phong
+k12.2	Vũ Hoàng 	Kim	17/4/2012	X	Vũ Văn Hưng	KP.Phú Sơn 
+k12.2	Lê Phan Thùy 	Linh	18/9/2012	x	Lê Quang Hùng	KP.AH Đông
+k12.2	Trương Hoài 	Long	20/10/2012		Trương Công Dũng 	KP.Phú Sơn 
+k12.2	Lê Quang 	Nghĩa	29/4/2012		Phạm Thị Tuyết	KP.Phú Sơn
+k12.2	Đặng Thanh 	Nhiệm	22/11/2012		Đặng Thanh Phát	KP.Ngọc Nam
+k12.2	Dương Thị Quỳnh 	Như	02/11/2012	x	Dương Ngọc Ánh	KP.Phú Phong
+k12.2	Nguyễn Khoa Hoàng 	Phát	16/04/2012		Nguyễn Khoa Nam Anh	KP.Ngọc Nam
+k12.2	Phan Đông 	Quân	28/10/2012		Phan Đông Nhựt	KP.Phú Sơn 
+k12.2	Dương Văn 	Quốc	30/11/2012		Dương Lợi	KP.Ngọc Nam
+k12.2	Trương Thị Như 	Quỳnh	21/12/2012	x	Trương Văn Quang	KP.Phú Phong
+k12.2	Nguyễn Tấn 	Sang	23/12/2012		Nguyễn Tấn Sỹ	KP.Ngọc Nam
+k12.2	Nguyễn Bảo 	Thạch	07/11/2012		Nguyễn Minh Trọng	KP.Phú Sơn 
+k12.2	Nguyễn Hoài 	Thương	06/9/2012	X	Nguyễn Tấn Đổng	KP.Phú Ân
+k12.2	Trương Bảo	Trâm	8/8/2012	x	Trương Công Vương	KP.AH Nam
+k12.2	Trần Nguyễn Bảo 	Trân	30/9/2012	x	Trần Quang Trưởng	KP.Phú Trung
+k12.2	Trần Như	Trang	26/10/2012	x	Trần Minh Chánh	KP.Phú Phong 
+k12.2	Trương Minh	Trí	22/10/2012		Trương Văn Phán	KP.Phú Phong
+k12.2	Lê Thiên 	Trí	25/6/2012		Lê Văn Tiến	KP.Phú Sơn
+k12.2	Trần Nguyễn Anh 	Tú	22/03/2012		Trần Nguyễn Anh Tuấn	KP.Phú Ân
+k12.2	Nguyễn Ngọc Tú	Uyên	9/01/2012	X	Nguyễn Văn Nguyên	KP.Phú Phong 
+k12.2	Nguyễn Thị Tuyết 	Vân	7/6/2012	x	Nguyễn Văn Thi	KP.Phú Trung
+k12.2	Nguyễn Ngọc Như	Ý	7/8/2012	x	Nguyễn Ngọc Anh	KP.Phú Ân
+k12.3	Nguyễn Thị Thu 	Bằng	27/5/2012	x	Ngô Thị Thà	KP.Phú Trung
+k12.3	Nguyễn Tuấn 	Đạt	01/01/2012		Nguyễn Ngọc Ánh	KP.Phú Sơn 
+k12.3	Trương Nhật	Duy	26/7/2012		Trương Văn Sỹ	KP.Phú Phong
+k12.3	Đặng Thị Hạ 	Giang	10/4/2012	x	Đăng Cao Quý	KP.Phú Sơn
+k12.3	Đỗ Kiều Khánh 	Giang	17/10/2012	x	Đỗ Phúc	KP.AH Nam
+k12.3	Trần Thị Ngọc 	Hân	16/5/2012	x	Trần Chánh Hùng	KP.Phú Sơn 
+k12.3	Nguyễn Trương Văn 	Hòa	18/11/2012		Nguyễn Văn Cương 	KP.Ngọc Nam
+k12.3	Hồ Quý 	Huy	6/4/2012		Hồ Quý Tá 	KP.Ngọc Nam
+k12.3	Trương Lan 	Hy	4/7/2012	x	Trương Đình Phú	KP.Ngọc Nam
+k12.3	Nguyễn Quốc Minh 	Khang	06/7/2012		Nguyễn Quốc Thanh	KP.Phú Trung
+k12.3	Nguyễn Thị Ly	Ly	26/8/2012	x	Nguyễn Đình Thiện	KP.AH Nam
+k12.3	Dương Công 	Minh	04/5/2012		Dương Công Vạn 	KP.Ngọc Nam
+k12.3	Nguyễn Thị Hà 	My	25/4/2012	x	Nguyễn Ngọc Tuệ	KP.Phú Trung
+k12.3	Nguyễn Ly 	Na	12/11/2012	x	Nguyễn Trọng Hồi	KP.AH Nam
+k12.3	Nguyễn Doãn Ý	Nhi	17/9/2012	x	Nguyễn Văn Trường	KP.Phú Phong
+k12.3	Nguyễn Thị Thảo 	Nhi	29/8/2012	x	Nguyễn Văn Thân 	KP.Ngọc Nam
+k12.3	Nguyễn Doãn Ý	Như	17/9/2012	x	Nguyễn Văn Trường	KP.Phú Phong
+k12.3	Nguyễn Thị  Quỳnh 	Như	24/2/2012	x	Nguyễn Thanh Quý	KP.Phú Ân
+k12.3	Trần Nguyễn Quỳnh 	Như	17/5/2012	x	Trần Cảnh	KP.Phú Ân
+k12.3	Phan Thế Hoàng 	Ninh	10/1/2012		Phan Thế Long 	KP.Phú Phong
+k12.3	Nguyễn Ngọc 	Phúc	16/12/2012		Nguyễn Cường	KP.AH Nam
+k12.3	Dương Văn Minh 	Quân	18/8/2012		Dương Văn Xin 	KP.Phú Phong
+k12.3	Nguyễn Lê Tấn 	Quân	12/5/2010		Nguyễn Tấn Cường	KP Phú Ân 
+k12.3	Phạm Nguyễn Hoàng 	Quý	01/10/2012		Phạm Văn Phú	KP.AH Đông
+k12.3	Phạm Như 	Quỳnh	12/8/2012	x	Phạm Thanh Hiền	KP.Phú Ân
+k12.3	Dương Thị Xuân	Thùy	6/7/2012	x	Dương Văn Lực 	KP.Ngọc Nam
+k12.3	Huỳnh Cẩm 	Tiên	05/12/2012	x	Huỳnh Thanh Dung	KP.Phú Sơn 
+k12.3	Trương Ngọc Bảo 	Trâm	21/01/2012	x	Trương Thanh Vân	KP.Phú Phong
+k12.3	Dương Thị Bảo 	Trân	26/8/2012	x	Dương Văn Tâm	KP.Ngọc Nam
+k12.3	Trần Huyền 	Trang	04/12/2012	x	Trần Thiện Thanh	KP.Phú Ân
+k12.3	Mai Anh 	Trí	9/4/2012		Mai Văn Vũ	KP.Phú Ân
+k12.3	Dương Hoàng Hải	Triều	05/4/2012		Dương Văn Trỉ 	KP.Phú Phong
+k12.3	Dương Thị Huyền 	Trinh	25/6/2012	x	Dương Văn Hà 	KP.Phú Phong
+k12.3	Ung Nguyễn Thanh 	Trúc	24/11/2012	x	Nguyễn Thị Thuyền	KP.AH Trung
+k12.3	Nguyễn Bình Phương	Yên	30/05/2012	x	Nguyễn Văn Trọng	KP.Ngọc Nam
+k12.3	Nguyễn Minh 	Vũ	02/01/2012		Nguyễn Minh Tường	KP.Phú Trung
+k12.3	Nguyễn Thị 	Vy	06/10/2012	x	Nguyễn Quang Hùng	KP.Phú Sơn 
+k12.3	Trương Thị Tường 	Vi	08/10/2012	x	Trương Công Hùng 	KP.Phú Sơn 
+k12.4	Phạm Quốc 	An	04/9/2012		Phạm Quốc Diêu	KP.Phú Ân
+k12.4	Lê Nguyễn Thiên	Ân	08/01/2012	x	Lê Cơ Thạch 	KP.Phú Ân
+k12.4	Nguyễn Lê Tùng 	Bách	30/10/2012		Nguyễn Văn Cả	KP.AH Nam
+k12.4	Phạm Văn 	Bảo	26/01/2012		Phạm Văn Quốc 	KP.Phú Sơn 
+k12.4	Nguyễn Văn 	Bảo	12/6/2012		Nguyễn Thị Năm	KP.Phú Phong
+k12.4	Lương Ngọc 	Cường	15/6/2012		Lương Ngọc Sáng	KP.AH Nam
+k12.4	Nguyễn Bảo 	Đan	29/8/2012	x	Nguyễn Bá Sơn	KP.AH Nam
+k12.4	Nguyễn Đức 	Hải	03/03/2012		Nguyễn Duy Hiệu 	KP.AH Nam
+k12.4	Nguyễn  Bảo 	Hân	19/07/2012		Nguyễn Tấn Xuân	KP.Phú Sơn 
+k12.4	Phạm Thị Thanh 	Hoa	03/8/2012	x	Phạm Văn  Chương	KP.AH Nam
+k12.4	Nguyễn Huỳnh Mỹ 	Kiều 	9/11/2012	x	Nguyễn Châu Mỹ 	KP.Phú Ân
+k12.4	Trần Bảo 	Nam	04/8/2012		Trần Minh Hải	KP.Phú Sơn 
+k12.4	Nguyễn Võ Hồng 	Nga	22/7/2012		Nguyễn Văn Thái 	KP.AH Nam
+k12.4	Dương Hòa Kim	Ngân	9/11/2012	x	Dương Văn Quang 	KP.Phú Phong
+k12.4	Trần Trí 	Nguyên	14/7/2012		Trần Văn Thắng 	KP.Phú Ân
+k12.4	Nguyễn Khắc 	Nguyên	11/2/2012		Nguyễn Tấn Pháp	KP.Phu Trung
+k12.4	Hà Yến	Nhi	02/01/2012	x	Hà Thanh Sơn	KP.Phú Sơn 
+k12.4	Dương Thị Yến 	Nhi	13/01/2012	x	Dương Văn Thạnh	KP.Phú Phong
+k12.4	Nguyễn Thị Yến 	Như	26/10/2012	x	Nguyễn Văn Hận	KP.Phú Sơn 
+k12.4	Nguyễn Đình Gia	Phát	02/01/2012		Nguyễn Hồng Phong	KP.AH Nam
+k12.4	Lê Minh 	Phúc	25/8/2012		Lê Văn Bản	KP.Phú Sơn 
+k12.4	Nguyễn Anh 	Quân	02/9/2012		Nguyễn Văn Thụ	KP.Phú Sơn 
+k12.4	Nguyễn Hồng 	Quân	14/6/2012		Doãn Thụy Cận	KP.Phú Phong
+k12.4	Trương Công 	Quang	01/7/2010		Trương Công Hậu	KP Phú Phong 
+k12.4	Nguyễn Xuân	Quốc	23/12/2012		Nguyễn Xuân Nghĩa	KP.Phú Sơn 
+k12.4	Nguyễn Thanh 	Tâm	17/01/2012		Nguyễn Thanh Vững 	KP.AH Nam
+k12.4	Nguyễn Huỳnh Thi	Thi	30/7/2012	x	Nguyễn Ánh Hồng	KP.Phú Ân
+k12.4	Phạm Ngọc Minh 	Thư	02/4/2012	x	Phạm Minh Đạo	KP.Phú Sơn 
+k12.4	Lưu Trần Thiên 	Thư	23/11/2012	x	Lưu Văn Hậu 	KP.Phú Ân
+k12.4	Đặng Hoài 	Thương	01/6/2012	x	Đặng Văn Thuấn 	KP.Phú Trung
+k12.4	Nguyễn Ngọc 	Tiên	25/2/2012		Nguyễn Văn Hải 	KP.AH Nam
+k12.4	Nguyễn Thành Bảo 	Trân	30/5/2012	x	Nguyễn Thành Lệ	KP.Phú Phong
+k12.4	Nguyễn Trần Thiên 	Trúc	29/5/2012	x	Nguyễn Tấn Thuận	KP.Phú Sơn 
+k12.4	Dương Nguyễn Công	Trung	29/03/2012		Dương Công Nhân	KP.Ngọc Nam
+k12.4	Trần Lê Nhã 	Uyên	19/01/2012	x	Trần Xuân Thuận	KP.AH Nam
+k12.4	Nguyễn Tấn 	Vũ	15/5/2012		Nguyễn Tuấn	KP.Phú Phong
+k12.4	Trương Thị Tường 	Vy	22/12/2012	x	Trương Cao Hùng	KP.AH Nam
+k12.5	Trần Phạm Gia 	An	22/02/2012	x	Trần Quốc Trường	KP.AH Đông
+k12.5	Nguyễn Nhật 	Anh	20/08/2012		Nguyễn Văn Dũng 	KP.AH Trung
+k12.5	Huỳnh Bảo 	Anh	17/02/2012	x	Huỳnh Quang	KP.AH Đông
+k12.5	Trần Thị Minh	Ánh	03/12/2012	x	Trần Minh Trí	KP.AH Trung
+k12.5	Hoàng Tùng 	Bách	21/03/2012		Hoàng Tùng Diệp	KP.AH Trung
+k12.5	Trương Khả 	Di	27/09/2012	x	Trương Công Văn 	KP.AH Nam
+k12.5	Phạm Quỳnh 	Giang	8/11/2012	x	Phạm Ngọc Ánh	KP.AH Đông
+k12.5	Phan Lê Kỳ 	Hà	12/04/2012		Phan Văn Cảng	KP.AH Nam
+k12.5	Lê Quốc 	Hưng	02/09/2012		Nguyễn Thị Hiền	KP.AH Nam
+k12.5	Trần Quốc 	Huy	29/04/2012		Trần Quốc Chương	KP.AH Trung
+k12.5	Trần Quang	Huy	07/8/2012		Trần Văn Hiền 	KP.AH Đông
+k12.5	Trương Nguyễn Đình 	Huy	21/04/2012		Trương Công Kỳ	KP.AH Đông
+k12.5	Nguyễn Quốc 	Huy	01/6/2012		Nguyễn Văn Sơn	KP.AH Đông
+k12.5	Lê Thanh 	Huyền	22/10/2012	x	Lê Phi Thường 	KP.AH Trung
+k12.5	Nguyễn Gia 	Khang	15/06/2012		Nguyễn Ngọc Hân	KP.AH Trung
+k12.5	Nguyễn Thanh 	Khôi	24/11/2012		Nguyễn Văn Nam	KP.AH Đông
+k12.5	Nguyễn Tuấn 	Kiệt	22/05/2012		Nguyễn Anh Pho	KP.AH Trung
+k12.5	Nguyễn Thị Thanh 	Lê	0'1/11/2012	x	Nguyễn Thanh Lương	KP.AH Nam
+k12.5	Võ Tân Nhật	Minh	12/1/2012		Võ Chí Thi	An hà Trung
+k12.5	Trần Công 	Minh	05/6/2011		Trần Công Việt	KP Phú Phong 
+k12.5	Nguyễn Ngọc Ly 	Na	22/12/2012	x	Nguyễn Văn Cường	KP.AH Nam
+k12.5	Nguyễn Hồng 	Nga	17/02/2012	x	Nguyễn Văn Cường	KP.AH Nam
+k12.5	Trịnh Thị Yến	Ngọc	23/12/2012	x	Lê Thị Kim Hoa	KP.AH Trung
+k12.5	Lương Thành 	Nhân	07/04/2012		Lương Thành Vi	KP.AH Trung
+k12.5	Phạm Văn 	Nhất	02/06/2012		Phạm Văn Hiến	KP.AH Trung
+k12.5	Phạm Thị Kiều 	Oanh	30/07/2012	x	Phạm Văn Nhanh	KP.AH Trung
+k12.5	Trương Quốc 	Phong	10/11/2012		Trương Công Cho	KP.AH Đông
+k12.5	Phạm Ngọc Yến 	Phương	19/06/2012	x	Phạm Ngọc Tin	KP.AH Đông
+k12.5	Nguyễn Hùng 	Quốc	15/12/2012		Nguyễn Hùng Vương	KP.AH Nam
+k12.5	Ung Nho 	Quyết	11/8/2011		Ung Nho Diêm	KP.AH Trung
+k12.5	Bùi Thị Thu 	Thảo	9/06/2012	x	Bùi Quang Hiệp	KP.AH Nam
+k12.5	Ung Nguyễn Anh	Thư	21/04/2012	x	Ung Nho Tạo	KP.AH Trung
+k12.5	Ung Thị Dương 	Tiên	22/11/2012	x	Ung Nho Vũ	KP.AH Đông
+k12.5	Trần Lê Văn 	Tín	06/07/2012		Trần Trung Sỹ	KP.AH Trung
+k12.5	Lương Thị Thu	Trâm	9/01/2012	x	Lương Quang Sau	KP.AH Nam
+k12.5	Ngô Mai Thùy	Trang	11/07/2012	x	Ngô Sơn	KP.AH Trung
+k12.5	Huỳnh Ngọc Thanh 	Trúc	30/08/2012	x	Huỳnh Biên	KP.AH Trung
+k12.5	Nguyễn Thị Thảo 	Uyên	10/11/2012	x	Nguyễn Ngọc Chiến 	KP.AH Đông
+k12.5	Phạm Thị Mỹ 	Uyên	04/01/2012	x	Phạm Văn Hiền 	KP.AH Đông
+k12.5	Nguyễn Minh 	Việt	07/08/2012		Nguyễn Minh Vương	KP.AH Đông
+k13.1	Trần Tuấn 	Anh	14/8/2013		Trần Văn Long	Phú Phong
+k13.1	Phạm Linh 	Đan	16/7/2013	x	Đặng Thị Như Mai	Phú Sơn
+k13.1	Mai Nguyễn Bảo	Hân	01/3/2013	x	Mai Tấn Quyền	An Hà Nam
+k13.1	Trương Thúy	Hằng	23/1/2013	x	Nguyễn Thị Mỹ Diệu	An Hà Nam
+k13.1	Trần Văn 	Hậu	19/01/2013		Hồ Thị Lanh	Phú Phong
+k13.1	Trịnh Ngọc Khải 	Hưng	08/11/2013		Trịnh Ngọc Quốc	Phú Trung
+k13.1	Hồ Anh 	Kiệt	04/1/2013		Hồ Đức Vững	Phú Sơn
+k13.1	Phạm 	Long	10/11/2013		Phạm Minh Tuấn	An Hà Nam
+k13.1	Phạm Thành	Nam	2/2/2013		Ung Thị Lợi	An Hà Nam
+k13.1	Ngô Kỳ	Nam	14/4/2013		Ngô Đê	An Hà Đông
+k13.1	Văn Bảo 	Nguyên	11/5/2013		Văn Phú Lâm	An Hà Nam
+k13.1	Võ Văn 	Nhất	17/11/2013		Võ Văn Ngô	phú sơn
+k13.1	Trần Thảo	Nhi	18/12/2013		Tần Phu Hổ	Phú Ân
+k13.1	Nguyễn Thanh Hồng	Nhung	19/8/2013	x	Nguyễn Thanh Lâm	Ngọc Nam
+k13.1	Lương Ngọc	Oanh	22/5//2013	x	Lương Đình Nam	An Hà Đông
+k13.1	Nguyễn Xuân	Phú	9/2/2013		Nguyễn Xuân Công	An Hà Nam
+k13.1	Nguyễn Thanh	Phúc	15/7/2013		Nguyễn Thanh Hiếu	Phú Trung
+k13.1	Nguyễn Hoàng Nhã	Phương	01/01/2013	x	Nguyễn Thị Tuyết Sương	An Sơn
+k13.1	Đỗ Đăng 	Quyền	1/3/2013		Đỗ Phan Tiến	Ngọc Nam
+k13.1	Lê Văn Thanh	Tao	19/3/2013		Lê Thanh Phụ	Phú Trung
+k13.1	Hoàng Ngọc	Thắng	8/4/2013		Hoàng Minh Tâm	Phú Trung
+k13.1	Lê Văn 	Thành	27/7/2012		Lê Văn Phu	KP.Phú Sơn 
+k13.1	Châu Võ Ngọc	Thiện	08/5/2013		Châu Ngọc Thiên	Phú Phong
+k13.1	Dương Văn	Thiệt	19/4/2013		Dương Văn tươi	Ngọc Nam
+k13.1	Trần Thị Minh	Thư	5/1/2013	x	Trần Ngọc Dũng	Phú Sơn
+k13.1	Đinh Ngọc Minh 	Thư	19/5/2013	x	Đinh Phan Thành	Phú Phong
+k13.1	Phạm Trần Anh	Thư	22/6/2013	x	Phạm Anh Thìn	phú Sơn
+k13.1	Trần Thị Thu 	Thùy	29/6/2013	x	Trần Tấn Nùng	Phú Trung
+k13.1	Trần Bảo 	Trâm	05/3/2013	x	Ung Thị Thanh Mai	Phú Sơn
+k13.1	Trần Bảo 	Trân	05/3/2013	x	Ung Thị Thanh Mai	Phú Sơn
+k13.1	Trương Công	Tú	19/10/2013		Trương Công Vươmg	An Hà Nam
+k13.1	Đỗ Đại Thiên	Vũ	02/11/2013		Đỗ Thanh Hùng	Phú Ân
+k13.1	Nguyễn Thanh 	Vương	15/12/2013		Nguyễn Thanh Toàn	Phú Phong
+k13.1	Trương Lê Hải	Yến	14/4/2013	X	Trương Bảo Toàn	Phú Phong
+k13.2	Phạm Nhã	An	6/12/2013	x	Phạm Văn Ba	Phú Sơn
+k13.2	Nguyễn Ngọc Nhã	Băng	22/06/2012	x	Nguyễn Ngọc Chương	Phú sơn
+k13.2	Đoàn Trần Gia	Bảo	4/1/2013		Trần Thị Thanh Hà	S
+k13.2	Dương Chu Quốc	Bảo	15/7/2013		Dương Văn Vương	Phú Phong
+k13.2	Nguyễn Gia 	Bảo	16/12/2013		Trương Thị Thanh Lý	Phú Trung
+k13.2	Nguyễn Thiên 	Bảo	16/12/2013		Trương Thị Thanh Lý	Phú Trung
+k13.2	Nguyễn Văn 	Bảo	15/1/2013		Nguyễn Văn Hương	Phú Ân
+k13.2	Phạm Hồng	Bin	8/1/2013		Phạm Hồng Nhựt	Phú Trung
+k13.2	Võ Thùy 	Duyên	28/6/2013	x	Võ Thị Thu	An Hà Nam
+k13.2	Dương Bảo 	Hân	21/3/2013	X	Dương Trung Lập	Ngọc Nam
+k13.2	Nguyễn Đức 	Hội	20/10/2013		Nguyễn Đức Hoàng	An Hà Nam
+k13.2	Dương Tuấn	Hưng	04/12/2013		Dương Long Dương	Ngọc Nam
+k13.2	Nguyễn Ngọc Gia	Hưng	10/6/2013		Nguyễn Đức Cường	An Hà Đông
+k13.2	Ngô Minh 	Huy	06/07/2013		Ngô minh Hùng	Phú Ân
+k13.2	Nguyễn Quang	Huy	08/11/2013		Nguyễn Quang Tuyền	Phú Ân
+k13.2	Nguyễn Trọng	Khang	28/1/2013		Nguyễn Văn Se	Phú Ân
+k13.2	Đặng Bá	Khang	04/3/2013		Đặng Bạn	Phú Phong
+k13.2	Nguyễn Bảo 	Khôi	03/4/2013			Phú Trung
+k13.2	Doãn Tuấn	Kiệt	15/1/2013		Doãn Văn Hòa	Phú Phong
+k13.2	Đào Tùng	Lâm	22/4/2013		Ngô Thị Ngọc Trâm	Hòa Hương
+k13.2	Ung Nguyễn Hòa	Linh	20/1/2013	x	Ung Nho Như Huân	An hà Trung
+k13.2	Cao Thảo	Linh	25/6/2013	x	Cao Đình Mạnh	Phú Phong
+k13.2	Trương Nguyễn Diễm	Ly	18/10/2013	x	Nguyễn Thị Yến Vy	phú Phong
+k13.2	Trương Nguyễn Ni	Na	3/2/2013	x	Trương Công Châu Tuấn	Phú Sơn
+k13.2	Phạm Bảo 	Ngân	15/4/2013	x	Phạm Ngọc Hữu	Phú Phong
+k13.2	Nguyễn Thị Bảo 	Ngân	11/11/2013	x	Nguyễn Văn Quang	Phú Sơn
+k13.2	Ngô Thị Bích	Ngọc	28/02/2013	x	Ngô Tấn Thương	An Hà Đông
+k13.2	Nguyễn Bảo	Nhân	24/6/2013		Nguyễn Hồng Vũ	An Hà Nam
+k13.2	Nguyễn Thị Quỳnh 	Như	24/6/2013	X	Nguyễn Đình Thắng	An Hà Nam
+k13.2	Trần Quỳnh	Như	12/5/2013	x	Trần Văn Lĩnh	Ngọc Nam
+k13.2	Trần Phước 	Thắng	04/12/2013		Trần Đình Sinh	An Hà Nam
+k13.2	Nguyễn Tống Khả	Tú	10/10/2013	x	Nguyễn Minh Lễ	Phú Sơn
+k13.2	Hoàng Công 	Tú	25/8/2013		Hoàng Công Chánh	Phú Sơn
+k13.2	Đỗ Thị Nhã	Uyên	11/5/2013		Đỗ Phan Tuấn	Ngọc Nam
+k13.2	Trương Bảo	Yên	07/11/2013	X	Trương Cao Lực	An Hà Nam
+k13.3	Phạm Ploong Hồng 	Ân	26/6/2013		Ploong Hải	Phú Phong
+k13.3	Nguyễn Ngọc Nhật	Băng	22/06/2012	x	Nguyễn Ngọc Chương	Phú sơn
+k13.3	Phạm Gia 	Bảo	30/5/2013		Phạm Thành Tâm	An Hà Nam
+k13.3	Lê Gia 	Bảo	24/8/2013		Lê Văn Vũ	Phú Ân
+k13.3	Trương Công Quốc 	Bảo	23/2/2013		Trương Công phú	Phú Ân
+k13.3	Huỳnh Văn 	Bảo	15/12/2013		Huỳnh Văn Thời	Phú Trung
+k13.3	Nguyễn Quốc	Đạt	24/4/2013		Nguyễn Văn Chín	Phú Sơn
+k13.3	Trần Trọng 	Đạt	19/5/2013		Phạm Thị Tươi	Phú Sơn
+k13.3	Nguyễn Hoàng 	Đoan	11/3/2013		Nguyễn Văn Liêu	Phú Trung
+k13.3	Phạm Nguyễn Ngọc	Duy	05/1/2013		Phạm Ngọc Luận	An Hà Nam
+k13.3	Nguyễn Trần Phi	Hồng	23/8/2013		Nguyễn Xuân Việt	Phú Sơn
+k13.3	Nguyễn Thị Vân 	Khánh	08/9/2013	x	Nguyễn Văn Kính	An Hà Nam
+k13.3	Nguyễn Thúy	Hằng	16/1/2013	x	Huỳnh Thị Thúy Trang	Phú Ân
+k13.3	Huỳnh Thảo	Ly	20/10/2013	x	Huỳnh Minh Hoàng	Ngọc Nam
+k13.3	Nguyễn Văn 	Mạnh	31/3/2013		Dương Thị Thủy	Phú Trung
+k13.3	Nguyễn Đình	Minh	19/5/2013		Nguyễn Đình Tân	Phú Phong
+k13.3	Nguyễn Ngọc An	Na	18/6/2013	x	Nguyễn Tiến Đạt	An Hà Nam
+k13.3	Nguyễn Hồ Trọng	Nhân	25/10/2013		Hồ Thi Phượng	Phú Phong
+k13.3	Trần Thị Yến	Nhi	29/1/2013	x	Trần Văn Vương	Phú Phong
+k13.3	Nguyễn Ngọc Gia 	Như	30/7/2013	x	Nguyễn minh Hồ	Phú Trung
+k13.3	Lê Lâm 	Phong	05/4/2013		Lê Văn Dục	Phú Trung
+k13.3	Phan Trác 	Quân	25/1/2013		Đỗ Thị Huyền Thuận	Phú Phong
+k13.3	Nguyễn Xuân	Tài	11/4/2013		Nguyễn Thị Vũ	Ngọc Nam
+k13.3	Nguyễn Hoàng Anh	Thư	31/12/2013	x	Phạm Thị Thanh Trung	Phú Ân
+k13.3	Trương Huỳnh Diệu	Thức	13/12/2013	x	Trương Công Chí	An Hà Nam
+k13.3	Võ Nguyễn Phương	Thùy	5/3/2013	x	Nguyễn Thị Nghĩa	Tân Thạnh
+k13.3	Trần Nguyễn Khánh	Thy	5/11/2013	x	Trần Qúy Duy	An Hà Nam
+k13.3	Nguyễn Thanh 	Tiến	17/10/2013		Nguyễn Thanh Hồng	Phú Ân
+k13.3	Huỳnh Bảo 	Trân	10/6/2013	x	Trần Thị Ly	An Hà Nam
+k13.3	Nguyễn Thị Phương	Trinh	6/4/2013	x	Nguyễn Tấn Đạt	Ngọc Nam
+k13.3	Nguyễn Minh 	Tuấn	14/3/2013		Nguyễn Minh Cường	Phú Trung
+k13.3	Trần Phương 	Uyên	25/1/2013	x	Trần Minh Thắng	An Hà Nam
+k13.3	Huỳnh Thị Cẩm 	Vân	9/3/2013	x	Huỳnh Thanh Tâm	Phú Sơn
+k13.4	Nguyễn Gia	Bảo	6/7/2013		Nguyễn Văn Tư	Phú Sơn
+k13.4	Nguyễn Gia	Bảo	20/9/2013		Nguyễn Thanh Bin	Phú Ân
+k13.4	Lê Thị Kim 	Duyên	02/12/2013	x	Lê Nho Khánh	An Hà Nam
+k13.4	Trần Gia 	Hân	28/10/2013	x	Phan Thị Yến Vân	An Hà Nam
+k13.4	Nguyễn Thị Thúy 	Hằng	19/5/2013	x	Nguyễn Văn Sự	Phú Ân
+k13.4	Đỗ Ngọc Hoàn	Hảo	20/6/2013		Đỗ Đình Hòa	An Hà Nam
+k13.4	Trương Gia 	Hưng	13/12/2013		Trương Văn Luận	Ngọc Nam
+k13.4	Nguyễn Ngọc 	Huyên	12/4/2013	x	Nguyễn Văn Khuyên	An Hà Nam
+k13.4	Lê Quang 	Khải	1/7/2013		Lê Quang Nhị	Phú Sơn
+k13.4	Trương Nguyễn 	Khánh	26/10/2013		Trương Văn Thuận	phú Phong
+k13.4	Trần Anh 	Khoa	10/5/2013		Trần Tài	An Hà Nam
+k13.4	Nguyễn Thanh	Mai	18/7/2013	x	Nguyễn Quang Tý	Phú sơn
+k13.4	Nguyễn Thu	Mây	16/1/2013	x	Lê Thị Xuân Sơn	Phú Ân
+k13.4	Lê Thị Kim 	Ngân	10/9/2013	x	Lê Kim Vĩnh	Phú Trung
+k13.4	Nguyễn Lê Bảo	Ngọc	22/02/2013	x	Nguyễn Văn Thảo	Phú Phong
+k13.4	Nguyễn Thị Mỹ	Ngọc	61/2013	x	Nguyễn Thanh Lâm	Phú Ân
+k13.4	Trương Đăng 	Nguyên	27/10/2013		Trương Văn Qúy	Ngọc Nam
+k13.4	Phan Nguyễn Thành	Nhân	29/4/2013		Phan Thế Trung	Phú Phong
+k13.4	Huỳnh Tấn Minh 	Nhật	9/2/2013		Nguyễn Thị Ánh Nguyệt	Phú Trung
+k13.4	Huỳnh Lê 	Nhật	7/12/2013		Lê Thị Xuân Hà	Phú Ân
+k13.4	Nguyễn Minh 	Phúc	01/01/2013		Nguyễn Ngọc Thì	Phú Ân
+k13.4	Lê Minh 	Phúc	13/10/2013		Lê Minh Trí	Phú Ân
+k13.4	Nguyễn Trương Hoàng	Phúc	28/2/2013		Nguyễn Văn Trang	An Hà Nam
+k13.4	Trương Thị Thảo	Phương	09/8/2013	x	Trương Văn Cưng	Ngọc Nam
+k13.4	Trẫn Nhã	Thiên	31/10/2013	x	Văn Trương Mỹ Mỹ	Phú sơn
+k13.4	Nguyễn Thanh 	Tiến	31/8/2013		Nguyễn Thanh Sỹ	Phú Ân
+k13.4	Nguyễn Thị Bảo 	Trâm	25/7/2013	x	Nguyễn Thị Tiệp	An Hà Nam
+k13.4	Trương Lê Bảo 	Trâm	28/8/2013	x	Trương Công Lĩnh	Ngọc Nam
+k13.4	Nguyễn Thị Huyền	Trang	09/01/2013	x	Nguyễn Cao Thiên	Phú Phong
+k13.4	Nguyễn Văn 	Triều	18/10/2013		Nguyễn Văn Thiện	Phú Ân
+k13.4	Lê Nguyễn Phương 	Uyên	17/01/2012	x		KP.Phú Ân
+k13.4	Nguyễn Phan Tường	Vy	8/7/2013	x	Nguyễn Sĩ Dũng	An Hà Nam
+k13.5	Trần Thị Lan 	Anh	24/8/2013	x	Trần Xuân Viễn	An Hà Trung
+k13.5	Trần Gia 	Bảo	12/7/2013		Nguyễn Thị Kim Vang	An hà Trung
+k13.5	Võ Doãn Gia	Bảo	04/07/2013		Võ Doãn Thị Đào	An Hà Trung
+k13.5	Nguyễn Nguyên	Chương	28/5/2013		Nguyễn Văn Khay	An hà Trung
+k13.5	Nguyễn Lin	Đa	30/9/2013	x	Nguyễn Văn Mình	An Hà Đông
+k13.5	Phan Thanh	Đông	8/4/2013		Phan Văn tín	An Hà Nam
+k13.5	Võ Hồng	Đức	14/4/2013		Ngô Thị Hải	An hà Trung
+k13.5	Ung Bảo	Duy	13/11/2013		Châu Thị Thùy Linh	An Hà Trung
+k13.5	Hoàng Thùy	Duyên	26/11/2013	x	Hoàng Anh Tuấn	An Hà Nam
+k13.5	Nguyễn Trần Việt	Hàn	12/5/2013		Nguyễn Xuân Liên	An hà Trung
+k13.5	Nguyễn Thị Thanh 	Hằng	19/5/2013	x	Nguyễn Thanh Tĩnh	An hà Trung
+k13.5	Ung Dương Hiếu	Hạnh	25/8/2013	x	Ung Nho Dân	An hà Trung
+k13.5	Trương Bùi Huy	Hoàng	20/8/2013		Bùi Thị Lợi	An Hà Đông
+k13.5	Nguyễn Gia	Hưng	08/12/2013		Nguyễn Thanh Văn 	An Hà Đông
+k13.5	Trần Anh	Khang	21/4/2013		Trần Tấn Thành	An Hà Nam
+k13.5	Trương Đan 	Khanh	11/7/2013		Trương Minh Dương	An hà Trung
+k13.5	Trịnh Trần Huy	Khánh	20/8/2013		Trịnh Minh Phát	An Hà Đông
+k13.5	Phạm Đinh Đăng	Khoa	2/11/2013		Phạm Long Khánh	An Hà Đông
+k13.5	Phan Văn	Kin	10/4/2013		Phan Văn Cường	An hà Trung
+k13.5	Nguyễn Thị Phương	Linh	01/02/2013	x	Nguyễn Văn Lợi	An Hà Nam
+k13.5	Nguyễn Ngọc	Ly	04/7/2013	x	Nguyễn Ngọc Lanh	An hà Trung
+k13.5	Lê Nguyên Trung	Nghĩa	10/11/2013		Lê Thanh Chính	An hà Trung
+k13.5	Nguyễn Lê Nhật	Nguyên	21/7/2013		Nguyễn Quốc Trịnh	An Hà Đông
+k13.5	Phạm Thị Quỳnh	Như	17/2/2013	x	Phạm Thanh Trường	An Hà Đông
+k13.5	Đặng Thị Hồng	Như	27/12/2013	x	Đặng Bá Lộc	An Hà Đông
+k13.5	Doãn Thị Kiều	Oanh	30/12/2013	x	Doãn Ngọc Đình	An hà Trung
+k13.5	Trần Văn 	Tá	10/10/2013		Trần Văn Tuân	An Hà Đông
+k13.5	Bùi Trần Phương	Thanh	13/5/2013	x	Bùi Lê Thảo	An hà Trung
+k13.5	Phạm Anh	Thơ	5/4/2013	x	Phạm Văn Duyến	An Hà Đông
+k13.5	Phạm Gia	Thọ	17/2/2013		Trần Thị Mỹ Hạnh	An Hà Nam
+k13.5	Nguyễn  Kiều Anh	Thư	11/1/2013	x	Lương Thị Cam	An hà Trung
+k13.5	Nguyễn Thị Anh 	Thy	12/8/2013	x	Nguyễn Văn Phú	An Hà Nam
+k13.5	Nguyễn Ngọc Nhật	Tiến	31/3/2013		Nguyễn Ngọc Quốc	An Hà Nam
+k13.5	Huỳnh Bảo 	Trâm	15/1/2013	x	Nguyễn Thị Lịch	An hà Nam
+k13.5	Lê Hoàng Anh 	Tuấn	13/01/2013		Lê Tấn Lực	An Hà Đông
+k13.5	Trần Cao	Tuấn	26/4/2013		Trần Cao Khuyên	An hà Trung
+k13.5	Phạm Đặng Anh	Tuấn	25/2/2013		Phạm Văn Trị	An Hà Trung
+k13.5	Ung Việt Anh	Tuấn	9/10/2013		Ung Thị Thúy Song	An hà Trung
+k14.1	Nguyễn Phúc Gia	Bảo	27/3/2013		Nguyễn Thành Trung	Phú Phong
+k14.1	Nguyễn Văn Anh	Bảo	26/4/2014		Nguyễn Văn Thưởng	Ngọc Nam
+k14.1	Phan Giang	Châu	20/10/2014	X	Phan Thiện Dương	Phú Ân
+k14.1	Phạm Lê bảo	Hân	14/12/2014	X	Phạm Xuân Đồng	Phú Sơn
+k14.1	Lương Văn	Hiếu	25/4/2014		Lương Văn Oanh	Phú Sơn
+k14.1	Vũ Phi	Hùng	17/02/2014		Hoàng thị Phương Thảo	Phú Ân
+k14.1	Trương Công Quốc	Huy	13/12/2014		Trương Công phú	Phú Ân
+k14.1	Nguyễn Đức 	Huỳnh	22/11/2014		Nguyễn Duy Hiệu	An Hà Nam
+k14.1	Nguyễn Minh 	Khang	05/12/2014		Nguyễn Văn Tư	Phú Trung
+k14.1	Trương Công Vũ	Khang	4/12/2014		Trương Công Chính	An Hà Nam
+k14.1	Vương Trung 	Kiên	27/7/2014		Vương Đình Tâm	An Hà Nam
+k14.1	Nguyễn Văn 	Lâm	01/01/2014		Nguyễn Văn Trai	Phú Sơn
+k14.1	Phạm Hồ Thảo 	Linh	13/7/2014	X	Phạm Trần Quang Tiến	Phú Ân
+k14.1	Nguyễn Khánh	Long	22/10/2014		Nguyễn Đình Khánh	Phú Sơn
+k14.1	Phạm Thị Khánh 	Ly	04/04/2014	X	Phạm Chí Công	Phú Phong
+k14.1	Nguyễn Viết 	Nam	09/05/2014		Nguyễn Viết Thanh 	Ngoc Nam
+k14.1	Nguyễn Hoàng Bảo	Ngân	08/10/2014	X	Nguyễn Thanh Được	Phú Ân
+k14.1	Dương Phạm Bảo 	Nguyên	16/1/2014	X	Dương Xuân Qúy	Phú Phong
+k14.1	Lê Trần Anh	Quân	28/8/2014		Lê Văn Thuần	Phú Trung
+k14.1	Phạm Nguyễn Hồng 	Quyên	01/11/2014	X	Phạm Ngọc Nam	Phú Trung
+k14.1	Phạm Trần Như	Quỳnh	02/09/2014	X	Trần Thị Thường	Phú Phong
+k14.1	Nguyễn Ngọc Quang	Thịnh	28/11/2014		Nguyễn Văn Quốc	An Hà Nam
+k14.1	Nguyễn trần Thanh 	Thúy	14/9/2014	X	Nguyễn Thanh Dũng	Ngọc  Nam
+k14.1	Dương Thị Ngọc	Thùy	17/11/2014	X	Dương Văn Tâm	Ngọc  Nam
+k14.1	Nguyễn Lê Bảo	Trâm	20/2/2014	X	Nguyễn Xuân Quân	An Hà Nam
+k14.1	Nguyễn Huỳnh Quang	Trí	28/9/2014		Nguyễn Quang Trung	An Hà Nam
+k14.1	Nguyễn Hoàng Lan	Trinh	4/3/2014	X	Nguyễn Thanh Lâm	An Hà Nam
+k14.1	Nguyễn Thủy	Trúc	17/4/2014	X	Nguyễn Thành đạo	Phú Sơn
+k14.1	Nguyễn Thị Thanh 	Trúc	29/7/2014	X	Nguyễn Thanh Rin	Phú Phong
+k14.1	Trần Văn 	Trung	3/10/2014		Trần Văn Thảnh	Phú Sơn
+k14.1	Mai Trần Hoàng	Tuấn	22/5/2014		Mai văn Trà	Phú Sơn
+k14.1	Nguyễn Phương	Uyên	05/11/2014	X	Nguyễn Đại Binh	Phú Trung
+k14.1	Phan Ngọc Yến	Xuân	02/9/2014	X	Nguyễn Thị Xuân Liêm	Ngọc  Nam
+k14.2	Nguyễn Văn Thiên 	Ân	26/7/2014		Nguyễn Văn Sơn	Phú Phong
+k14.2	Dương Ngọc Trâm 	Anh	24/11/2014	X	Dương Ngọc Giảng	Phú Ân
+k14.2	Dương Bảo 	Châu	21/6/2014	X	Dương Ánh Sáng	Ngọc  Nam
+k14.2	Nguyễn Dương Bảo 	Chi	25/7/2014	X	Nguyễn Đình Quang	Ngọc Nam
+k14.2	Nguyễn Ngọc 	Chí	15/12/2014		Nguyễn Ngọc Tuệ	Phú Trung
+k14.2	Tạ Yên 	Đan	08/12/2014	X	Tạ Đình Nhân	Phú Ân
+k14.2	Dương Công 	Đoàn	16/7/2014		Dương Công Nhân	Ngọc  Nam
+k14.2	Dương Hoàng 	Gia	31/10/2014		Dương Văn Thế	Phú Sơn
+k14.2	Phạm Bảo 	Hân	30/9/2014	X	Phạm Đình Cường	Phú Trung
+k14.2	Phạm Khánh 	Hưng	3/8/2014		Phạm Tuấn	Ngọc  Nam
+k14.2	Nguyễn Bùi Gia	Huy	18/2/2014		Nguyễn Thanh Thúy	An Hà Nam
+k14.2	Lê Tấn 	Khang	26/4/2014		Lê Tấn Thuận	An Hà Nam
+k14.2	Phạm Thanh 	Kiệt	01/11/2014		Phạm Thanh Hiền	Phú Ân
+k14.2	Phạm Hồ Tuấn	Kiệt	29/12/2014		Phạm Kim Huy	Phú Phong
+k14.2	Trần Anh 	Kiệt	24/9/2014		Trần Văn Miên	An Hà Nam
+k14.2	Nguyễn Trần Tấn 	Long	18/6/2014		Nguyễn Tấn Đông	Phú Ân
+k14.2	Nguyễn Ngọc 	Mến	6/6/2014	X	Nguyễn Thị Thương	Phú Trung
+k14.2	Đỗ Ngân Thảo	My	18/8/2014	X	Đỗ Văn Học	Ngọc Nam
+k14.2	Nguyễn Dương Lệ	Na	31/10/2014	X	Nguyễn Tấn Lễ	Phú Phong
+k14.2	Trương Đỗ Ánh 	Ngọc	14/5/2014	X	Trương Công Sơn	Phú Sơn
+k14.2	Nguyễn Thị yến	Nhi	23/7/2014	X	Nguyễn Đình Thắng	An Hà Nam
+k14.2	Nguyễn Thị Thảo	Như	26/4/2014	X	Nguyễn Không Em	Phú Ân
+k14.2	Nguyễn Anh 	Quân	25/6/2014		Nguyễn Văn Nguyên	Phú Phong
+k14.2	Đỗ Văn 	Quân	11/2/2014		Đỗ Văn Lạc	Phú Sơn
+k14.2	Nguyễn Tấn	Tài	26/4/2014		Nguyễn Tấn Thật	Phú Ân
+k14.2	Nguyễn Văn Minh 	Toàn	18/10/2014		Nguyễn Văn Trọng	Phú Phong
+k14.2	Lê Thị Bảo	Trâm	13/9/2014	X	Lê Hồng Liễu	Phú Ân
+k14.2	Đoàn Trần Bảo 	Trâm	12/7/2014	X	Đoàn Thanh Tuyến	An Hà Nam
+k14.2	Nguyễn Văn 	Trí	16/1/2014		Nguyễn Xuân Tuấn	Phú Sơn
+k14.2	Mai Phương 	Trinh	03/7/2014	X	Mai Thanh Kim	Phú Sơn
+k14.2	Nguyễn Doãn Thanh	Tùng	11/4/2014		Nguyễn Văn Hội	Ngọc  Nam
+k14.2	Nguyễn Ngọc Thảo	Vy	22/7/2014	X	Nguyễn Thành Duy	An Hà Nam
+k14.3	Phạm Nguyễn Gia	Bảo	19/11/2014		Phạm Đình Quý	Phú Phong
+k14.3	Đỗ Thị Bích  	Châu	19/6/2014	X	Đỗ Văn Thành	Phú Sơn
+k14.3	Phan Nguyễn Linh	Đan	;04/11/2014	x	Nguyễn Thị Trà My	Phú Phong
+k14.3	Mai Anh 	Dũng	21/8/2014		Mai Văn Vũ	Phú Ân
+k14.3	Lê Lê Nhật	Hạ	17/4/2014	X	Lê Văn Luật	Phú Trung
+k14.3	Nguyễn Hoàng Gia	Hân	08/12/2014	X	Trần Thị Quyên	Ngọc  Nam
+k14.3	Trương Vũ Gia	Hân	29/06/2014	X	Trương Công Định	Phú Sơn
+k14.3	Nguyễn Văn	Hiếu	05/01/2014		Nguyễn Văn Tín	Ngọc  Nam
+k14.3	Mai Khánh 	Hưng	30/9/2014		Mai Tấn Quyền	An Hà Nam
+k14.3	Trương Công Hoài	Huy	18/12/2014		Trương Công Dũng	Phú Sơn
+k14.3	Phan Vĩnh Bảo	Khang	14/01/2014		Phan Vĩnh Dần	Phú Phong
+k14.3	Trương Nguyên 	Khang	02/06/2014		Trương Văn Tú	An Hà Nam
+k14.3	Nguyễn Tư Đăng 	Khôi	15/10/2014		Nguyễn Văn Thanh	Ngọc  Nam
+k14.3	Huỳnh Thị Minh	Khuê	07/10/2014	X	Huỳnh Văn Thanh	Phú Phong
+k14.3	Nguyễn Anh 	Kiệt	25/6/2014		Nguyễn Văn hải	Phú Sơn
+k14.3	Nguyễn Ngọc Khánh	Linh	22/9/2014	X	Nguyễn Minh Việt	Ngọc  Nam
+k14.3	Trần Gia	Linh	08/10/2014	X	TRần Văn Tính	Phú Ân
+k14.3	Huỳnh Trí 	Long	30/9/2014		Huỳnh Kim Hướng	Ngọc  Nam
+k14.3	Dương Quốc 	Long	08/10/2014		Dương Quốc Sử	Phú Trung
+k14.3	Trương Xuân 	Minh	16/6/2014		Trương Xuân Hiếu	An Hà Nam
+k14.3	Nguyễn Duy	Nam	25/8/2013		Nguyễn Duy Phương	Phú Ân
+k14.3	Nguyễn Phạm Kim 	Ngân	24/02/2014	X	Nguyễn Ngọc Hoanh	Phú Phong
+k14.3	Trần Bảo	Ngọc	14/11/2013	X	Trần Thị Phương Thuyền	Phú Ân
+k14.3	Võ Nguyễn Minh 	Nhật	08/10/2014		Võ Văn Quang	Ngọc  Nam
+k14.3	Trần Minh 	Nhựt	18/6/2014		Trần Minh Chánh	Phú Phong
+k14.3	Dương Tấn 	Phát	11/12/2014		Dương Hồng Chinh	Phú Phong
+k14.3	Đỗ Thị Ngọc	Quyên	21/5/2014	X	Đỗ Văn Nhiều	An Hà Nam
+k14.3	Dương Phượng	Quỳnh	4/7/2014	X	Dương Bá Sử	An Hà Nam
+k14.3	Trần Hồ Như 	Quỳnh	14/3/2014	X	Trần Minh Tâm	Phú Sơn
+k14.3	Trương Nguyễn Hoàng 	Thái	27/9/2014		Trương Dương Tùng	Phú Sơn
+k14.3	Trương Công Duy	Thịnh	30/10/2014		Trường Công Tích	Phú Phong
+k14.3	Trần Quân Long	Trí	141/2/2014		Trần Quân Triều	Ngọc Nam
+k14.3	Nguyễn Phương	Vy	27/8/2014	X	Nguyễn Thế Đức	Phú Ân
+k14.4	Nguyễn Thị Yến	An	11/10/2014	X	Nguyễn Văn Hận	Phú Sơn
+k14.4	Doãn Bùi Gia	Bảo	9/12/2014		Doãn Ngọc Vịnh	Phú Phong
+k14.4	Nguyễn Ngọc Gia	Hân	12/9/2014	X	Nguyễn Văn Phải	Phú Phong
+k14.4	Nguyễn Phước Gia	Huy	09/11/2014		Nguyễn Văn Nhật	Phú Trung
+k14.4	Nguyễn Phúc Gia	Huy	11/12/2014		Nguyễn Thanh Trung	Phú Phong
+k14.4	Nguyễn Hoang Gia	Khang	14/6/2014		Nguyễn Thiện Thuyết	Phú Phong
+k14.4	Nguyễn Văn 	Khang	27/6/2014		Nguyễn Văn Thanh	Phú Sơn
+k14.4	Nguyễn 	Khang	14/6/2014		Nguyễn Hồng Khanh	Phú Phong
+k14.4	Phạm Đăng 	Khôi	12/9/2014		Phạm Thị Chung	Phú Phong
+k14.4	Lê Tuấn	Kiệt	11/3/2014		Lê Văn Tuấn	An Hà Trung
+k14.4	Phạm Phương 	Lam	8/5/2014	X	Phạm Văn Cườm	Phú Trung
+k14.4	Nguyễn Thục	Lâm	16/08/2014	X	Nguyễn Văn Quê	Ngọc  Nam
+k14.4	Phạm Trà	My	30/1/2014	X	Phạm Hồng Cường	Phú Trung
+k14.4	Nguyễn  Thiện	Nhân	11/9/2014		Nguyễn Hữu Tĩnh	Phú Phong
+k14.4	Trần Quang 	Nhật	11/04/2014		Bùi Tấn Vinh	Phú Ân
+k14.4	Nguyễn Quang	Nhớ	26/5/2014		Nguyễn Quang Minh	Phú Sơn
+k14.4	Dương Thanh 	Phát	3/11/2014		Dương Văn Qúy	Ngọc Nam
+k14.4	Tống Huỳnh Thanh	Phong	25/12/2014	X	Tống Văn Tình	Phú Ân
+k14.4	Trần Nhật	Phương	18/5/2014	X	Trần Đắc Hùng	An Hà Nam
+k14.4	Nguyễn Minh 	Quân	11/02/2014		Nguyễn Tấn Dũng	Phú Sơn
+k14.4	Trần Nguyễn Quang	Sang	12/9/2014		Trần Thị Hòa	Phú Phong
+k14.4	Phạm Hồng Tiến 	Thành	3/2/2014		Phạm Hồng Thạo	Phú Trung
+k14.4	Trương Minh 	Thuận	30/1/2014		Trương Thành Chinh	Phú Phong
+k14.4	Nguyễn Thị Cẩm 	Tiên	11/03/2014	X	Phạm Thị Thêm	Phú Trung
+k14.4	Trương Hoàng Bảo	Trâm	29/12/2014	X	Trương Hoàng Lâm	Phú Sơn
+k14.4	Hoàng Đặng Ngọc 	Trinh	13/04/2014	X	Hoàng Trung Anh	Phú Ân
+k14.4	Huỳnh Y Thủy 	Trúc	05/06/2014	X	Huỳnh Văn Sơn	An Hà Nam
+k14.4	Nguyễn Thị Thanh 	Trúc	3/11/2014	X	Nguyễn Thanh Tuấn	Ngọc Nam
+k14.4	Đỗ Thanh	Trúc	24/5/2014	X	Đỗ Thanh Phước	Phú Sơn
+k14.4	Nguyễn Văn 	Trực	2/3/2014		Nguyễn Thanh Tra	Phú Ân
+k14.4	Trần Huyền	Tú	15/9/2014	X	Trần Văn Bình	Phú Ân
+k14.4	Trần Ngọc Như 	Ý	31/12/2014	X	Trần Hoàng Phúc	An Hà Nam
+k14.5	Lê Nguyễn Minh	Châu	18/3/2014	X	Lê Vương Quốc	An Hà Đông
+k14.5	Nguyễn Thị Ly	Đan	12/10/2013	X	Nguyễn Văn Nhị	An Hà Đông
+k14.5	Nguyễn Văn 	Hiếu	18/10/2014		Nguyễn Văn Trị	An Hà Trung
+k14.5	Nguyễn Bảo 	Hòa	09/6/2014		Nguyễn Văn Nhân	An Hà Nam
+k14.5	Ung Nguyễn Ngọc 	Khang	11/1/2014		Ung Ngọc Giàu	An Hà Trung
+k14.5	Võ Tiến Huy 	Khang	29/06/2014		Võ Thương	AH Trung
+k14.5	Lương Anh	Kiệt	02/10/2014		Lương Thành Vi	An Hà Trung
+k14.5	Phạm Ngọc Yến 	Linh	24/10/2014	X	Phạm Ngọc Tin	An Hà Đông
+k14.5	Ung Hoàng 	Long	07/6/2014		Ung Nho Phải	An Hà Trung
+k14.5	Nguyễn Thanh 	Lượng	21/8/2014		Nguyễn Thanh Lưỡng	An Hà Nam
+k14.5	Trần Thị Thảo	My	16/6/2014	X	Trần Văn Lệnh	An Hà Trung
+k14.5	Lê Thị Bảo	Ngân	09/12/2014	X	Lê Thanh Tân	An Hà Đông
+k14.5	Võ Minh 	Ngọc	30/4/2014		Võ Đắc Phú	Phú Sơn
+k14.5	Ung Vũ	Nhật	14/5/2014		Ung Viết Nhã	An Hà Trung
+k14.5	Nguyễn Thanh Quỳnh	Như	27/1/2014	X	Nguyễn Thanh Viễn	An Hà Nam
+k14.5	Nguyễn Ngọc	Phát	22/8/2014		Nguyễn Văn Hảo	An Hà Đông
+k14.5	Huỳnh Minh 	Phúc	19/12/2014		Huỳnh Minh Chính	An Hà Nam
+k14.5	Lê Nguyễn Ngọc	Sách	27/8/2014		Lê Ngọc Sỹ	An Hà Đông
+k14.5	Nguyễn Ngọc 	Thái	18/11/2014		Nguyễn Ngọc Thiên	An Hà Nam
+k14.5	Nguyễn Thị Bảo	Thy	05/01/2014	X	Nguyễn Quang Vinh	An Hà Nam
+k14.5	Lê Hoàng Thùy	Trâm	19/3/2014	X	Hoàng Thị Kim Yến	An Hà Nam
+k14.5	Võ Trần Hương 	Trúc	13/08/2014	X	Võ Văn Lục	An Hà Trung
+k14.5	Đỗ  Văn Quang	Trường	18/3/2014		Đỗ Văn Công	An Hà Trung
+k14.5	Nguyễn Thị Thanh 	Tuyền	01/07/2014	X	Nguyễn Tấn Thịnh	An Hà Trung
+k14.5	Trương Nhã	Uyên	17/1/2014	X	Trương Anh Hoàng	An Hà Trung
+k14.5	Trương Phạm Tường 	Vi	18/9/2014	X	Võ Tánh	An Hà Nam
+k14.5	Nguyễn Thị Loan	Vy	10/12/2014	X	Nguyễn Tấn Dũng	An Hà Trung
+k14.5	Trương Thị Thảo 	Vy	19/9/2014	X	Trương Công Hùng	An Hà Nam
+k14.6	Huỳnh Thị Diệp	Chi	23/10/2014	x	Định Thị Diệp Thảo	An Hà Nam
+k14.6	Hà Quế	Chi	8/7/2014	X	Hà Phước Ưng	An Hà Nam
+k14.6	Doãn Hương 	Giang	07/12/2014	X	Doãn Văn Trung	An Hà Trung
+k14.6	Nguyễn Sinh 	Hùng	24/11/2014		Nguyễn Văn Bình	An Hà Trung
+k14.6	Ung Gia	Huy	26/12/2014		Ung Nho Cương	An Hà Trung
+k14.6	Nguyễn Tuấn 	Huy	14/8/2014		Đỗ Thị Thiếp	An Hà Trung
+k14.6	Nguyễn Thị Ngọc	Huyền	31/10/2014	X	Nguyễn Minh Quang	An Hà Đông
+k14.6	Đặng Vĩnh	Kha	27/08/2014		Đặng Bá Phải	An Hà Đông
+k14.6	Ung Nguyễn Trọng	Khang	25/02/2014		Ung Nho Lực	An Hà Đông
+k14.6	Trương Công Quốc	Khánh	16/08/2014		Trương Công Quốc	An Hà Nam
+k14.6	Doãn Văn 	Khoa	23/2/2014		Doãn Văn Tứ	An Hà Trung
+k14.6	Nguyễn Xuân	Lĩnh	22/9/2014		Nguyễn Trọng Hồi	An Hà Nam
+k14.6	Trương Công 	Luân	16/12/2014		Trương Công Cường	An Hà Nam
+k14.6	Trương Công Tấn	Mạnh	10/09/2014		Trương Công Hoạt	An Hà Nam
+k14.6	Ung Sơn 	My	22/12/2014	X	Ung Ngọc Thành	Ngọc Nam
+k14.6	Đặng Bảo	Ngân	26/1/2014	X	Đặng Bá Lịnh	An Hà Nam
+k14.6	Doãn Hoàng	Nhật	26/7/2014		Doãn Ngọc Trung	An Hà Trung
+k14.6	Ung Thị Hoàn	Ny	02/08/2014	X	Ung Nho Đức	An Hà Trung
+k14.6	NguyễnThị Kiều	Oanh	27/06/2014	X	Nguyễn Xuân Thành	An Hà Trung
+k14.6	Huỳnh Minh	Phúc	17/8/2014		Huỳnh Văn Vũ	An Hà Trung
+k14.6	Lương Quang 	Quảng	12/07/2014		Lương Quang Viện	An Hà Trung
+k14.6	Nguyễn Hiếu 	Quốc	06/02/2014		Nguyễn Văn Mỹ	An Hà Trung
+k14.6	Lê Nguyễn Quỳnh	Thư	11/09/2014	X	Lê Văn Thanh	An Hà Trung
+k14.6	Lê Nguyễn Anh	Thư	15/5/2014	X	Lê Thái Duẩn	An Hà Trung
+k14.6	Nguyễn Thị Bảo	Trâm	18/12/20214	X	Nguyễn Ngọc Thưởng	An Hà Nam
+k14.6	Ưng Anh	Triều	31/08/2014		Ưng Ngọc Dân	An Hà Trung
+k14.6	Huỳnh Dương Thị Kiều	Trinh	5/10/2013	X		An Hà Trung
+k14.6	Trần Thảo 	Vy	26/7/2014	X		An Hà Trung
+k15.1	Hồ Nguyễn Bảo 	An	19/4/2015		Nguyễn Thị Chí Linh	Phú sơn
+k15.1	Nguyễn Tố Thư 	Anh	18/8/2015	x	Nguyễn Thị Tố Trinh	Phú Sơn
+k15.1	Nguyễn Phúc Bảo	Châu	12/11/2015		Nguyễn Thị Thúy Hằng	Phú Ân
+k15.1	Bạch Đình Phúc	Điền	9/10/2015		Nguyễn Thị Như Ngọc	An Hà Nam
+k15.1	Nguyễn Văn 	Đức	01/01/2015		Nguyễn Thị Tài	KP Ngọc Nam
+k15.1	Nguyễn Ngọc Ánh	Dương	30/3/2015	x	Nguyễn Thị Định	Ngọc Nam
+k15.1	Lê Quang Bảo 	Hân	17/12/2015	x	Nguyễn Thị Tư	KP An Hà Nam
+k15.1	Nguyễn Viết Thanh	Hiếu	11/8/2015		Nguyễn Thị Mỹ Thê	Phú ÂN
+k15.1	Đỗ Minh	Hồng	13/8/2015		Đỗ Minh Cảnh	Ngọc Nam
+k15.1	Lê Minh	Hưng	7/6/2015		Võ Thị Ngọc Yến	Phú Ân
+k15.1	Nguyễn Thành Gia	Huy	1/11/2015		Nguyễn Thị Tiên	An Hà Nam
+k15.1	Phạm Quốc 	Huy	05/7/2015		Quach Thị Dung	Phú Phong
+k15.1	Trần Nguyên 	Khang	14/4/2015		Huỳnh Thị Mỹ Linh	Phú Ân
+k15.1	Phạm Đăng	Khôi	01/1/2015		Trần Thị Hạnh	An Hà Nam
+k15.1	Nguyễn Hiếu	Lam	10/11/2015		Nguyễn Thị Minh Tâm	An Hà Đông
+k15.1	Tống Lê Bảo	Lộc	29/11/2015		Lê Thị Thiện	Phú Ân
+k15.1	Nguyễn Mai Hoàng	Long	11/9/2015		Mai THị Thu Vân	Phú sơn
+k15.1	Lê Văn Bảo	Lực	6/10/2015		Lê Thị Lệ	Phú Ân
+k15.1	Trần Huyền	Ly	22/5/2015	x	Đoàn Thị Hạnh	Phú Ân
+k15.1	Nguyễn Ly	Na	21/9/2015	x	Trịnh Thị Phẩm	Ngọc Nam
+k15.1	Lương Thị Thúy 	Ngân	12/8/2015	x	Trương Thị Thùy Dương	Phú Sơn
+k15.1	Nguyễn Lê Bảo 	Ngọc	2/4/2015	x	Lê Thị Thu Yên	Phú Phong
+k15.1	Lê Nguyễn Như	Ngọc	'4/11/2015	x	Nguyễn Thị Bích Kiều	Phú Ân
+k15.1	Châu Nguyễn Thảo	Nguyên	27/2/2015		Nguyễn Trần Khánh Ly	Phú Phong
+k15.1	Đặng Bá 	Nhân	23/12/2015		Huỳnh Thị Diễm Hằng	Phú Phong
+k15.1	Doãn Phạm Minh	Nhật	12/8/2015		Phạm Thị Thảo	Phú Phong
+k15.1	Đặng Thị Bảo	Nhi	3/11/2015	x	Nguyễn Thị Thảo	Phú Trung
+k15.1	Dương Thị Na 	Ny	18/1/2015	x	lê Thị Qúy	An Hà Nam
+k15.1	Nguyễn Thanh	phong	6/1/2015		Nguyễn Thị Hải	KP Ngọc Nam
+k15.1	Nguyễn Minh 	Phước	1/10/2014		Nguyễn Thị Lành	Phú phong
+k15.1	Lê Khánh 	Quỳnh	9/8/2015	x	Phạm Thị Như Ánh	Phú Trung
+k15.1	Phạm Lê Hương	Thảo	21/6/2015	x	Lê Thị Thái Bình	Phú Sơn
+k15.1	Phan Thị Anh	Thư	24/11/2015	x	Trần Thị Hội	Phú Phong
+k15.1	Phạm Quỳnh	Tiên	18/8/2015	X	Nguyễn Thị thúy Niên	Phú Trung
+k15.1	Trần Nguyễn Thúy	Trâm	19/8/2015	x	Nguyễn Thị Thanh Thúy	Phú Ân
+k15.1	Dương Thị Mỹ 	Trân	13/8/2015	x	Nguyễn Thị Tâm	Phú Trung
+k15.1	Nguyễn Hoàng Thảo	Uyên	'5/2/2015	x	Nguyễn  Như Trang	KP Ngọc Nam
+k15.1	Trần Huy	Vũ	28/7/2015		Trương Thị Đoan Trang	Ngọc Nam
+k15.1	Phạm Thái 	An	31/3/2015		Trần Thị Thủy	Phú Sơn
+k15.1	Nguyễn Thị Kim 	Anh	28/10/2015	x	Nguyễn Thị Xinh	Ngọc Nam
+k15.1	Nguyễn Trương Hải 	Băng	30/9/2015	x	Trương Thị Thủy	Phú Ân
+k15.1	Trương Bảo 	Châu	6/8/2015	x	Nguyễn Thị Hà Tiên	Phú Phong
+k15.1	Nguyễn Ngọc Bảo 	Châu	17/8/2015	x	Nguyễn Thị Dạ Trinh	Phú Sơn
+k15.1	Lê Thị Ánh 	Dương	4/9/2015	x	Phạm Thị Tuyết	Phú sơn
+k15.1	Nguyễn Đức 	Duy	21/3/2015		Nguyễn Thị Kim Ngân	An Hà Nam
+k15.1	Hoang Khánh	Duy	3/9/2015		Phạm Thị Vân	Phú Trung
+k15.1	Nguyễn Lệ	Giang	20/6/2015		Nguyễn Thị Bích Vân	Phú Ân
+k15.1	Nguyễn Huy 	Hoàng	23/3/2015		Đinh Thị Tuyết Hà	Phú Ân
+k15.1	Nguyễn Hữu	Hoàng	27/2/2015		Nguyễn Thị Hoàng Trang	Phú sơn
+k15.1	Nguyễn Nam	Hưng	7/2/2015		Nguyễn Thị Trịnh	An Hà Nam
+k15.1	Phạm Gia	Huy	13/9/2015		Phạm Thị Điểm	Phú Phong
+k15.1	Phạm Quốc 	Khải	24/6/2015		Phan Thị Nhung	Phú sơn
+k15.1	Trương Minh	Khang	5/11/2015		Nguyễn Thị Thương	Phú Phong
+k15.1	Nguyễn Đăng	Khoa	5/9/2015		Doãn Thị Dung	An Hà Nam
+k15.1	Phạm Trần Long	Kin	14/1/2015		Trần Thị Ngọc Quyên	An Hà Nam
+k15.1	Trương Lê Nhật 	Lệ	20/10/2015	x	Lê Thị Thân	An Hà Nam
+k15.1	Nguyễn Văn 	Lên	9/2/2015		Phạm Thị Minh Viện	An Hà Nam
+k15.1	Dương Bảo	Loan	15/10/2015	x	Nguyễn Thị Võ	Ngọc Nam
+k15.1	Trương Ngọc Bảo	Luyến	30/3/2015	x	Dương Thị Kim Chung	Phú Phong
+k15.1	TRần Quỳnh 	Mai	24/5/2015	x	Nguyễn Thị Thanh Thuyền	Ngọc Nam
+k15.1	Lê Bình	Minh	14/10/2015		Dương Thị Thu Bình	Phú sơn
+k15.1	Huỳnh Ngọc Thảo	My	13/5/2015	x	Trương Thị Bích Liên	An Hà Đông
+k15.1	Huỳnh Trương Vi	Na	4/4/2015	x	Trương Thị Thu	An Hà Nam
+k15.1	Phan Văn	Nghị	'9/9/2015		Phạm Văn Quốc	Phú Ân
+k15.1	Nguyễn Thị Bảo	Ngọc	25/9/2015	X	Nguyễn Thị Thu Ba	An Hà Nam
+k15.1	Phan Bảo 	Ngọc	7/9/2015	x	lê Thị Tính	Phú Ân
+k15.1	Phan Đình	Phát	10/8/2015		Nguyễn Thị Thảo	Phú Phong
+k15.1	Nguyễn Hoài Như 	phúc	26/4/2015	x	Phan Thị Kim Hồng	Phú Phong
+k15.1	Đào Nhã 	Quỳnh	2/11/2015	x	Ngô Thị Ngọc Trâm	Hòa Hương
+k15.1	Lê Trương Khánh 	Tâm	22/10/2015		Trương Thị Kim Thúy	Phú Trung
+k15.1	Trương Hoàng	Thiên	01/9/2015		Nguyễn Thị Thu Thủy	An hà Đông
+k15.1	Nguyễn Thùy Kiều	Trâm	14/12/2015	x	Ngô Thị Lý	Ngọc Nam
+k15.1	Phạm Nguyễn Phương	Trinh	26/12/2015	x	Nguyễn Thị Thanh Lợi	Phú Phong
+k15.1	Nguyễn Thanh 	Trúc	27/12/2015	x	Nguyễn Thanh Sỹ	Phú Ân
+k15.1	Nguyễn Thanh	Trung	15/4/2015		Nguyễn Đỗ Mỹ Ly	Phú sơn
+k15.1	Huỳnh Đức 	Tuấn	9/4/2015		Trương Thị Diệu Hiền	Phú Sơn
+k15.1	Nguyễn Thị Bảo	Uyên	1/10/2015	x	Trương Thị Thu Hồng	Phú Ân
+k15.1	Nguyễn trương Bảo	An	13/3/2015	X	Trương Thị Gái Huyền	An hà Nam
+k15.1	Nguyễn Văn 	Bá	28/5/2015		Bùi Thị Tường Vy	KP An Hà Nam
+k15.1	Nguyễn Trương Thái	Bảo	17/1/2015		Trương Thị Mỹ Trang	Phú Phong
+k15.1	Nguyễn Thị Thanh	Bình	7/9/2015	x	Châu Thị Thuận	Phú Ân
+k15.1	Bùi Diệp	Chi	30/3/2015	X	Đinh Thị Nhật Lĩnh	An Hà Nam
+k15.1	Nguyễn Thành 	Duy	2/11/2015		Nguyễn Thị Bích Ti	Phú sơn
+k15.1	Nguyễn Hoàng	Hà	25/6/2015		Trần Thị Liên	An Hà Nam
+k15.1	Võ Nhật	Hân	2/11/2015	x	Trần Thị Đào	Phú Phong
+k15.1	Lê Nguyễn Quốc	Hiền	6/12/2015	x	Nguyễn Thị Bích Nam	An Hà Nam
+k15.1	Đinh Kim Gia	Hiếu	6/1/2015		Nguyễn Thị Minh Hướng	Phú sơn
+k15.1	Nguyễn Tấn Minh	Hoàng	26/1/2015		Nguyễn Thị Thanh Tuyền	Phú Ân
+k15.1	Nguyễn Ngọc Quang	Huy	04/1/2015		Ninh Thị Ý	Phú Ân
+k15.1	Dương Hoàng Ánh 	Huyền	13/8/2015	x	Hoàng Xuân Hạ	KP Phú Phong
+k15.1	Phạm Ngọc	Khang	27/12/2015		Nguyễn Thị Ngân	Phú Phong
+k15.1	Nguyễn Lê Nhật	Khang	25/6/2015		Lê Thị Bích	An Hà Nam
+k15.1	Phạm Văn	Khanh	14/01/2015		Phạm Thị Lĩnh	Phú sơn
+k15.1	Phạm Viết Đăng	Khôi	8/8/2015		Đỗ Thị Thúy Hằng	An Hà Nam
+k15.1	Vũ Phúc Tuấn	Kiệt	10/5/2015		Võ Thị Anh Thi	KP An Hà Nam
+k15.1	Dương Thị  	Mến	15/2/2015	x	Nguyễn Thị Đẹp	Ngọc Nam
+k15.1	Phạm Thùy 	Linh	28/9/2015	x	Nguyễn Thị Thảo	Phú sơn
+k15.1	Nguyễn Văn	Minh	6/8/2015		Nguyễn Thị Hà	Phú sơn
+k15.1	Ung Nguyễn Hoài 	Nam	18/2/2015		Ngô Thị Hòa	An Hà Trung
+k15.1	Nguyễn Thị Thanh	Ngân	7/5/2015	x	Nguyễn Thị Thu Thủy	An Hà Nam
+k15.1	Nguyễn Minh	Nghĩa	14/3/2015		Trương Thị Thu	An Hà Nam
+k15.1	Trương Thị Bảo 	Ngọc	11/10/2015	x	Nguyễn Thị Vỹ Nga	An Hà Nam
+k15.1	Trương Lê Thảo 	Nhi	20/3/2015	x	Lê Thị tề	Ngọc Nam
+k15.1	Nguyễn Thị Thục	Nhiên	05/2/2015	x	Phạm Thị Hiền	KP Phú Phong
+k15.1	Phùng Nguyễn Diệu	Oanh	21/9/2015	X	Nguyễn Thị Thùy Na	Phú Trung
+k15.1	Nguyễn Hồ Tấn 	Phúc	30/1/2015		Nguyễn Thị Minh Cảnh	Phú Ân
+k15.1	Nguyễn Văn Thiên	Phúc	21/11/2015		Trương Thị Phi Long	Phú Phong
+k15.1	Phạm Văn	Tân	30/3/2015		Hồ Thị Lài	Phú Sơn
+k15.1	Đỗ Thị Thúy	Thành	8/1/2015	x	Phạm THị Kim Quyên	Ngọc Nam
+k15.1	Dương Phạm Minh	Thiện	2/5/2015		Phạm Thị Nguyệt	Phú Phong
+k15.1	Đặng Cao Trường	Thịnh	6/1/2015		Huỳnh Thị Thúy Linh	Phú Sơn
+k15.1	Trần Tấn Huỳnh	Thuất	25/4/2015		Huỳnh Thị Hân	Phú Trung
+k15.1	Mai Phạm Bích	Trâm	16/3/2015	x	Phạm Thị Mỹ thơm	An Hà Nam
+k15.1	Nguyễn Ngọc Tuyết	Trinh	27/4/2015	x	Nguyễn Thị tuyết Mai	KP Phú Phong
+k15.1	Nguyễn Hoàng Khải	Tuấn	31/5/2015		Nguyễn Thị Bích Trâm	Phú Phong
+k15.1	Đỗ Thị Kim 	Tuyến	11/2/2015	x	Đỗ Thanh Toàn	Phú ÂN
+k15.2	Lê Gia 	An	28/12/2015		Nguyễn Thị Phi	Phú Ân
+k15.2	Trương Huỳnh 	Ân	02/5/2015	x	Huỳnh Thị Thu Thủy	Ngọc Nam
+k15.2	Trân Tú	Anh	01/01/2015		Nguyễn Thị Thu Trị	An Hà Nam
+k15.2	Nguyễn Ngọc Khả	Băng	23/7/2015	x	Nguyễn Thị Hồng Xuân	Phú Trung
+k15.2	Nguyễn Tiến 	Bảo	30/8/2015		Nguyễn Thị Vịnh	An Hà Nam
+k15.2	Nguyễn Thị Tiểu	Bình	19/6/2015	x	Nguyễn Thị Thư	An Hà Nam
+k15.2	Trần Ngọc Minh 	Châu	19/8/2015		Võ Thị Ngọc Nga	Phú sơn
+k15.2	Phạm Đức	Cường	24/3/2015		Trần Thị Phương Thảo	An Hà Nam
+k15.2	Nguyễn Bá 	Giàu	9/3/2015		Huỳnh Thị Thuấn	Phú sơn
+k15.2	Đỗ Lê Khánh 	Hân	23/9/2015	x	Lê Thị Vĩnh	Phú Ân
+k15.2	Dương Trọng	Hiếu	24/1/2015		Nguyễn Thị Cao Lành	Ngọc Nam
+k15.2	Nguyễn Thị Mỹ	Hương	11/8/2015	x	Nguyễn Thị Mỹ Quyên	Phú Phong
+k15.2	Dương Lê Tuấn	Khang	16/1/2015		Nguyễn Thị Hồng Liễu	Phước Hòa
+k15.2	 Trần Vĩnh 	Khang	13/12/2015		Võ Thị Bích Thi	Phú Ân
+k15.2	Lê Anh 	Khoa	14/3/2015		Võ Thị Lê	Phú Ân
+k15.2	Nguyễn Tuấn 	Kiệt	10/2/2015		Trương Thị Bích Thu	Phú Ân
+k15.2	Nguyễn Bảo	Lâm	28/4/2015		Trần Thị Tiến	Phú trung
+k15.2	Phan Nguyễn Khánh	Linh	19/3/2015	x	Nguyễn Đức Vy	Phú Sơn
+k15.2	Nguyễn Bảo	Long	8/9/2015		Nguyễn Thị Cang	Phú Ân
+k15.2	Nguyễn Lê Nhật	Ly	21/6/2015	x	Lê Thị Việt Giang	Phú Trung
+k15.2	Nguyễn Thị Xuân 	Mai	19/6/2015	x	Dương Thị Thúy Kiều	Ngọc Nam
+k15.2	Đoàn Trần Thảo	My	18/12/2015	x	Trần Thị Diễm	Phú sơn
+k15.2	Phan Thị Bảo 	Ngân	17/3/2015	x	Phan Thị Kim Ngọc	Phú Phong
+k15.2	Trần Văn	Nhân	25/5/2015		Bồ Thị Diễn	An Hà Nam
+k15.2	Nguyễn Thanh	Nhật	12/01/2015		Nguyễn Thị Đông	KP An Hà Nam
+k15.2	Nguyễn Tuệ 	Như	10/8/2015	x	Phan Nguyễn Thị Linh	Phú sơn
+k15.2	Ngô Đăng	Quang	29/7/2015		Ngô Văn Lạc	Ngọc Nam
+k15.2	Nguyễn Xuân	Siếp	21/8/2015		Phan Thị Bông	Ngọc Nam
+k15.2	Phạm Huỳnh Trung	Sơn	28/9/2015		Huỳnh Ngọc Diễm	Phú Ân
+k15.2	Nguyễn Thị Minh 	Thi	02/11/2015	x	Trương Thị Thu Thủy	Phú Ân
+k15.2	Nguyễn Thị Trà 	Tiên	10/8/2015	x	Trần Thị Hồng	Phú sơn
+k15.2	Phạm Thành	Tín	22/4/2015		Ung Thị Lợi	An Hà Đông
+k15.2	Nguyễn Thị Phương	Trinh	25/4/2015	x	Đặng Thị Tú Thủy	Phú Phong
+k15.2	Nguyễn Lê Bảo	Trúc	23/8/2015	x	Lê Thị Ngọc	An Hà Nam
+k15.2	Nguyễn Phan 	Tuyên	27/10/2015		Phan Thị Minh Tần	Phú Phong
+k15.2	Phan Thị Minh	Vy	29/3/2015	X	Nguyễn Thị Hoang	Phú Phong
+k15.2	Nguyễn Ngọc 	Vỹ	3/11/2015		Lê Thị Nguyệt Nga	An Hà Nam
+k15.2	Vương Nguyễn Hải	Yến	12/11/2015	x	Nguyễn Thị Ánh Tuyên	Phú Phong
+k15.3	Trần Kim Bảo	Ân	20/11/2015	x	Võ Thị Tâm	An Hà Trung
+k15.3	Ung Thị Hồng	Ân	26/8/2015	x	Đoàn Thị Huyền	An Hà Trung
+k15.3	Nguyễn Phạm  Quỳnh 	Anh	28/3/2 015	x	Phạm Thu Hậu	An Hà Đông
+k15.3	Nguyễn Lương Đức	Băng	3/5/2015		Lương Thị Bông	An Hà Đông
+k15.3	Huỳnh Nguyễn Gia	Bảo	24/7/2015		Nguyễn Thị Thủy	An Hà Nam
+k15.3	Ung Nguyễn Anh	Duy	15/5/2015		Nguyễn Thị Ánh Nhung	An Hà Trung
+k15.3	Châu hồng 	Duy	2/6/2015		Ung Thị Phương	Án Hà Trung
+k15.3	Nguyễn NHất	Duy	23/1/2015		Nguyễn Thị chung	An Hà Đông
+k15.3	Nguyễn Ngọc Nữ	Hoàng	18/8/2015		Lê Thị Kim Hoa	An Hà Trung
+k15.3	Nguyễn Cao 	hoàng	30/3/2015		Ung Thị Kim Huệ	KP An hà Trung
+k15.3	Phan Văn 	Kiệt	13/3/2015		Phạm Thị Kim Ngọc	An hà Trung
+k15.3	Nguyễn Thị Phương 	Minh	27/3/2015	x	Phạm Thị Phúc	An Hà Trung
+k15.3	Ung Hoàng Diễm	My	21/1/2015	x	Trương Thị Thu Trí	An Hà Trung
+k15.3	Lê Quang Bảo 	Nghĩa	28/11/2015		Nguyễn Thị Thu Hằng	An Hà Đông
+k15.3	Trần Lê văn 	Nghĩa	30/12/2014		Trần Trung Sỹ	An Hà Trung
+k15.3	Ung Thị Quỳnh	Như	18/6/2015	x	Trương Thị Thơm	 An Hà Trung
+k15.3	Hồ Thị Khánh	Như	26/8/2015	x	Nguyễn THỊ Sanh	An Hà Trung
+k15.3	Nguyễn Thị Quỳnh	Như	24/1/2015	x	Huỳnh Thị Thi Thơ	An Hà Đông
+k15.3	Lương Đỗ Thùy 	Ni	29/6/2015	x	Đỗ Thị Châu	An Hà Đông
+k15.3	Lê Duy	Nin	11/8/2015		Huỳnh Thị Thanh Thủy	An Hà Trung
+k15.3	Lê Hoàng 	Phong	9/12/2015		Ung Thị Luyến	An Hà Đông
+k15.3	Trịnh Văn	Quân	20/7/2015		Nguyễn Mỹ Tuyền	An Hà Trung
+k15.3	Huỳnh Ngọc Anh	Quân	12/1/2015		Lương Thị Hận	An Hà Đông
+k15.3	Nguyễn Văn 	Thảnh	13/7/2015		Nguyễn Thị Thu Danh	An Hà Trung
+k15.3	Ung Nguyễn Trường	Thịnh	16/2/2015		Nguyễn THỊ Bộ	An Hà Trung
+k15.3	Nguyễn Ngọc Phúc 	Thịnh	17/10/2015		Phạm Thị Lành	An Hà Đông
+k15.3	Nguyễn Kiều Anh	Thy	27/10/2015	x	Lương Thị Cam	An Hà Trung
+k15.3	Nguyễn Văn Phước	Toàn	29/12/2014		Nguyễn Văn Lợi	An Hà Nam
+k15.3	Doãn Thị Bảo 	Trâm	13/9/2015	x	Nguyễn Thị Bích Mẫn	An Hà Trung
+k15.3	Lương Bảo 	Trâm	21/4/2015	x	Ung Thị Thảo	An Hà Trung
+k15.3	Nguyễn Thị Minh 	Trâm	1/6/2015	x	Nguyễn Thị Gái	An Hà Đông
+k15.3	Nguyễn Ngọc Bảo 	Trân	16/5/2015	x	Nguyễn Thị Lễ	An Hà Trung
+k15.3	Hường Lương Bảo 	Trân	19/8/2015	x	Lương Thị Thi	An Hà Đông
+k15.3	Thái Thị Kiều	Trinh	24/6/2015	x	Ngô Thị Kim Chung	An Hà Trung
+k15.3	Ung Nho	Trọng	20/8/2015		Huỳnh Thị Tuyết	An Hà Trung
+k15.3	Ung Nhã	Trúc	3/2/2015	x	Nguyễn Thị Diệp	An Hà Trung
+k15.3	Nguyễn Hồ Nhã 	Trúc	13/10/2015	x	Hồ Thị Thúy	An Hà Đông
+k15.3	Nguyễn Thị Kim 	Xuân	6/2/2015	x	Nguyễn Thị Lệ	An Hà Trung
+k15.3	 Trương Thị Hoàng 	Yến	'25/3/2015	X	Bùi Thị Lợi	An Hà Đông

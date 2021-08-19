@@ -1,0 +1,20 @@
+{
+    "name": "motniemtin/offuserimport",
+    "description": "Thư viên lấy chỉ số công tơ",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lam Nguyen",
+            "email": "motniemtin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Motniemtin\\offUserImport\\": "src/"
+        }
+    },
+    "require": {
+        "league/csv": "^9.6"
+    }
+}
